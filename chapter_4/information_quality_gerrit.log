@@ -4176,3 +4176,829 @@
 2023-01-15 17:16:17,271;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
 2023-01-15 17:16:17,272;Gerrit data export pipeline;INFO;Processing revision 77567aed472b0404373d1c43a43e6ab5ea318da8 of change cps~master~Ic5c83cf2952c649fb634c6a1660696e7575cc1c7
 2023-01-15 17:16:17,272;Gerrit data export pipeline;INFO;Processed 283 of 500 changes
+2023-01-15 17:16:17,444;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~If0ec07edb1c156b06a9c2621a4e22bd35b9240a9/revisions/a52a51a6b09fc47b8fae4d603261c955de6f6069/comments HTTP/1.1" 200 639
+2023-01-15 17:16:17,445;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:17,446;Gerrit data export pipeline;INFO;Processing revision a52a51a6b09fc47b8fae4d603261c955de6f6069 of change cps~master~If0ec07edb1c156b06a9c2621a4e22bd35b9240a9
+2023-01-15 17:16:17,447;Gerrit data export pipeline;INFO;Processing file csit/pylibs.txt of revision a52a51a6b09fc47b8fae4d603261c955de6f6069 of change cps~master~If0ec07edb1c156b06a9c2621a4e22bd35b9240a9
+2023-01-15 17:16:17,637;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~If0ec07edb1c156b06a9c2621a4e22bd35b9240a9/revisions/a52a51a6b09fc47b8fae4d603261c955de6f6069/files/csit%2Fpylibs.txt/content HTTP/1.1" 200 667
+2023-01-15 17:16:17,638;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:17,639;Gerrit data export pipeline;INFO;Processed 284 of 500 changes
+2023-01-15 17:16:17,828;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~If6e70d63f961aaa7d26e1680f7bb917cf4de3546/revisions/9df9ba2e065a88c82932a00075a00a141c174b70/comments HTTP/1.1" 200 8
+2023-01-15 17:16:17,829;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:17,829;Gerrit data export pipeline;INFO;Processing revision 9df9ba2e065a88c82932a00075a00a141c174b70 of change oom~master~If6e70d63f961aaa7d26e1680f7bb917cf4de3546
+2023-01-15 17:16:18,009;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~If6e70d63f961aaa7d26e1680f7bb917cf4de3546/revisions/79201d105f44363f5ee5f806fc4bc5963abf98ae/comments HTTP/1.1" 200 8
+2023-01-15 17:16:18,010;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:18,011;Gerrit data export pipeline;INFO;Processing revision 79201d105f44363f5ee5f806fc4bc5963abf98ae of change oom~master~If6e70d63f961aaa7d26e1680f7bb917cf4de3546
+2023-01-15 17:16:18,182;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~If6e70d63f961aaa7d26e1680f7bb917cf4de3546/revisions/e56f7348cd0d194307066bdbd14084a2fce1737e/comments HTTP/1.1" 200 8
+2023-01-15 17:16:18,183;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:18,184;Gerrit data export pipeline;INFO;Processing revision e56f7348cd0d194307066bdbd14084a2fce1737e of change oom~master~If6e70d63f961aaa7d26e1680f7bb917cf4de3546
+2023-01-15 17:16:18,355;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~If6e70d63f961aaa7d26e1680f7bb917cf4de3546/revisions/331ae9f8c1dfb1af05dda0c697ad457070d2cb5f/comments HTTP/1.1" 200 8
+2023-01-15 17:16:18,356;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:18,356;Gerrit data export pipeline;INFO;Processing revision 331ae9f8c1dfb1af05dda0c697ad457070d2cb5f of change oom~master~If6e70d63f961aaa7d26e1680f7bb917cf4de3546
+2023-01-15 17:16:18,357;Gerrit data export pipeline;INFO;Processed 285 of 500 changes
+2023-01-15 17:16:18,529;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Ib964f8cdd11ee259868e7c2b2aa35327007ed048/revisions/e6851f35a34255c1674be79053b1afa6103f23f5/comments HTTP/1.1" 200 8
+2023-01-15 17:16:18,530;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:18,531;Gerrit data export pipeline;INFO;Processing revision e6851f35a34255c1674be79053b1afa6103f23f5 of change oom~master~Ib964f8cdd11ee259868e7c2b2aa35327007ed048
+2023-01-15 17:16:18,701;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Ib964f8cdd11ee259868e7c2b2aa35327007ed048/revisions/5c69e79b982936f24a234a400c1e73d26c58ce6a/comments HTTP/1.1" 200 8
+2023-01-15 17:16:18,702;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:18,703;Gerrit data export pipeline;INFO;Processing revision 5c69e79b982936f24a234a400c1e73d26c58ce6a of change oom~master~Ib964f8cdd11ee259868e7c2b2aa35327007ed048
+2023-01-15 17:16:18,873;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Ib964f8cdd11ee259868e7c2b2aa35327007ed048/revisions/565e48d6dcee85edf1997e50843454756635964f/comments HTTP/1.1" 200 8
+2023-01-15 17:16:18,873;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:18,874;Gerrit data export pipeline;INFO;Processing revision 565e48d6dcee85edf1997e50843454756635964f of change oom~master~Ib964f8cdd11ee259868e7c2b2aa35327007ed048
+2023-01-15 17:16:19,043;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Ib964f8cdd11ee259868e7c2b2aa35327007ed048/revisions/e78bf607edcf57e8906823937e80b9466fd6f0a3/comments HTTP/1.1" 200 8
+2023-01-15 17:16:19,044;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:19,045;Gerrit data export pipeline;INFO;Processing revision e78bf607edcf57e8906823937e80b9466fd6f0a3 of change oom~master~Ib964f8cdd11ee259868e7c2b2aa35327007ed048
+2023-01-15 17:16:19,214;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Ib964f8cdd11ee259868e7c2b2aa35327007ed048/revisions/6ccec68060309528f6b3f7020bab46a155c85a6d/comments HTTP/1.1" 200 8
+2023-01-15 17:16:19,215;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:19,216;Gerrit data export pipeline;INFO;Processing revision 6ccec68060309528f6b3f7020bab46a155c85a6d of change oom~master~Ib964f8cdd11ee259868e7c2b2aa35327007ed048
+2023-01-15 17:16:19,217;Gerrit data export pipeline;INFO;Processed 286 of 500 changes
+2023-01-15 17:16:19,386;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~If31fb515987c2e6c040e4fbf1d00ca4f669ed525/revisions/2d52af9dad95b03ea8ab2b91529519965bf78c1f/comments HTTP/1.1" 200 8
+2023-01-15 17:16:19,387;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:19,388;Gerrit data export pipeline;INFO;Processing revision 2d52af9dad95b03ea8ab2b91529519965bf78c1f of change sdc~master~If31fb515987c2e6c040e4fbf1d00ca4f669ed525
+2023-01-15 17:16:19,388;Gerrit data export pipeline;INFO;Processed 287 of 500 changes
+2023-01-15 17:16:19,559;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/testsuite%2Fpython-testing-utils~master~I1ba32b46f4a8fea902155f0b959ff841066a681a/revisions/cc48d7b837c0062c7b79d286c55c75b4eac65212/comments HTTP/1.1" 200 8
+2023-01-15 17:16:19,560;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:19,561;Gerrit data export pipeline;INFO;Processing revision cc48d7b837c0062c7b79d286c55c75b4eac65212 of change testsuite%2Fpython-testing-utils~master~I1ba32b46f4a8fea902155f0b959ff841066a681a
+2023-01-15 17:16:19,730;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/testsuite%2Fpython-testing-utils~master~I1ba32b46f4a8fea902155f0b959ff841066a681a/revisions/fc44b3881d985d7b980039d3ca009752fdd12f5b/comments HTTP/1.1" 200 8
+2023-01-15 17:16:19,731;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:19,732;Gerrit data export pipeline;INFO;Processing revision fc44b3881d985d7b980039d3ca009752fdd12f5b of change testsuite%2Fpython-testing-utils~master~I1ba32b46f4a8fea902155f0b959ff841066a681a
+2023-01-15 17:16:19,732;Gerrit data export pipeline;INFO;Processed 288 of 500 changes
+2023-01-15 17:16:19,902;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ci-management~master~I800f5c195a9c2dd373c7ab7d23dceca329ebb590/revisions/4a12da8a0dc7b2eb77915b0a3cae1e2da471ad86/comments HTTP/1.1" 200 8
+2023-01-15 17:16:19,903;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:19,903;Gerrit data export pipeline;INFO;Processing revision 4a12da8a0dc7b2eb77915b0a3cae1e2da471ad86 of change ci-management~master~I800f5c195a9c2dd373c7ab7d23dceca329ebb590
+2023-01-15 17:16:19,904;Gerrit data export pipeline;INFO;Processed 289 of 500 changes
+2023-01-15 17:16:20,074;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ccsdk%2Fdistribution~master~I409cc94cb5c9a8981d0dc3562bc9e69cfd3784db/revisions/e5043d4e249a672540f773d8758e78e7ae404984/comments HTTP/1.1" 200 8
+2023-01-15 17:16:20,075;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:20,076;Gerrit data export pipeline;INFO;Processing revision e5043d4e249a672540f773d8758e78e7ae404984 of change ccsdk%2Fdistribution~master~I409cc94cb5c9a8981d0dc3562bc9e69cfd3784db
+2023-01-15 17:16:20,246;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ccsdk%2Fdistribution~master~I409cc94cb5c9a8981d0dc3562bc9e69cfd3784db/revisions/b21bceac36b04f75eb5e55a026e7c11ed2224aa6/comments HTTP/1.1" 200 8
+2023-01-15 17:16:20,247;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:20,248;Gerrit data export pipeline;INFO;Processing revision b21bceac36b04f75eb5e55a026e7c11ed2224aa6 of change ccsdk%2Fdistribution~master~I409cc94cb5c9a8981d0dc3562bc9e69cfd3784db
+2023-01-15 17:16:20,248;Gerrit data export pipeline;INFO;Processed 290 of 500 changes
+2023-01-15 17:16:20,417;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fclamp~master~Ic7432524127500c7533d0d72172027142de1ee4c/revisions/ba532fb0fdd23dd44f51839d62edb89b66696f49/comments HTTP/1.1" 200 8
+2023-01-15 17:16:20,418;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:20,419;Gerrit data export pipeline;INFO;Processing revision ba532fb0fdd23dd44f51839d62edb89b66696f49 of change policy%2Fclamp~master~Ic7432524127500c7533d0d72172027142de1ee4c
+2023-01-15 17:16:20,419;Gerrit data export pipeline;INFO;Processed 291 of 500 changes
+2023-01-15 17:16:20,590;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fclamp~master~Ifa9a5d538d13e59ec842edee6d3cbc43a0f0df1d/revisions/ccb8bb7deb86001c5d88e07a344a6fb518efba9c/comments HTTP/1.1" 200 8
+2023-01-15 17:16:20,591;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:20,591;Gerrit data export pipeline;INFO;Processing revision ccb8bb7deb86001c5d88e07a344a6fb518efba9c of change policy%2Fclamp~master~Ifa9a5d538d13e59ec842edee6d3cbc43a0f0df1d
+2023-01-15 17:16:20,592;Gerrit data export pipeline;INFO;Processed 292 of 500 changes
+2023-01-15 17:16:20,761;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fclamp~master~Ia18a80565abbf8e9aaeba270f60b6984aa8078ef/revisions/32909d8d6e1be723cd33834d191ccb92b4dccfc7/comments HTTP/1.1" 200 8
+2023-01-15 17:16:20,762;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:20,763;Gerrit data export pipeline;INFO;Processing revision 32909d8d6e1be723cd33834d191ccb92b4dccfc7 of change policy%2Fclamp~master~Ia18a80565abbf8e9aaeba270f60b6984aa8078ef
+2023-01-15 17:16:20,763;Gerrit data export pipeline;INFO;Processed 293 of 500 changes
+2023-01-15 17:16:20,933;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fclamp~master~I936d6f0c20f774e37cef8dfbccaecb8f85660309/revisions/daa511c00a8e1816531a2fa628edebeb10c827c3/comments HTTP/1.1" 200 8
+2023-01-15 17:16:20,934;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:20,935;Gerrit data export pipeline;INFO;Processing revision daa511c00a8e1816531a2fa628edebeb10c827c3 of change policy%2Fclamp~master~I936d6f0c20f774e37cef8dfbccaecb8f85660309
+2023-01-15 17:16:20,935;Gerrit data export pipeline;INFO;Processed 294 of 500 changes
+2023-01-15 17:16:21,106;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~I4915eae96ffa4bc41239a4322a98dd3231a942d4/revisions/cda9e14de8e0536c99d4a17c628e3b492d0328ae/comments HTTP/1.1" 200 8
+2023-01-15 17:16:21,107;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:21,108;Gerrit data export pipeline;INFO;Processing revision cda9e14de8e0536c99d4a17c628e3b492d0328ae of change oom~master~I4915eae96ffa4bc41239a4322a98dd3231a942d4
+2023-01-15 17:16:21,108;Gerrit data export pipeline;INFO;Processed 295 of 500 changes
+2023-01-15 17:16:21,279;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I543513015d9e3b2c06e48f5d27848be676aa0b9b/revisions/1bfa5c69512edd6afc17244786bd53ccbe1c7a7e/comments HTTP/1.1" 200 8
+2023-01-15 17:16:21,280;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:21,280;Gerrit data export pipeline;INFO;Processing revision 1bfa5c69512edd6afc17244786bd53ccbe1c7a7e of change sdc~master~I543513015d9e3b2c06e48f5d27848be676aa0b9b
+2023-01-15 17:16:21,450;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I543513015d9e3b2c06e48f5d27848be676aa0b9b/revisions/d1c397d2c60bca814be2a5da782bb3ce97f7cfc8/comments HTTP/1.1" 200 8
+2023-01-15 17:16:21,451;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:21,451;Gerrit data export pipeline;INFO;Processing revision d1c397d2c60bca814be2a5da782bb3ce97f7cfc8 of change sdc~master~I543513015d9e3b2c06e48f5d27848be676aa0b9b
+2023-01-15 17:16:21,452;Gerrit data export pipeline;INFO;Processed 296 of 500 changes
+2023-01-15 17:16:21,624;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~I8f796ce6b18f007b4cdf31b79f2ac5d9ab0ec37a/revisions/976774c251ef5361a1ef78bad97eb2cbbebdb181/comments HTTP/1.1" 200 8
+2023-01-15 17:16:21,625;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:21,626;Gerrit data export pipeline;INFO;Processing revision 976774c251ef5361a1ef78bad97eb2cbbebdb181 of change oom~master~I8f796ce6b18f007b4cdf31b79f2ac5d9ab0ec37a
+2023-01-15 17:16:21,798;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~I8f796ce6b18f007b4cdf31b79f2ac5d9ab0ec37a/revisions/c8553d8b8939ace2039673ed84a36056cc524d97/comments HTTP/1.1" 200 2409
+2023-01-15 17:16:21,799;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:21,799;Gerrit data export pipeline;INFO;Processing revision c8553d8b8939ace2039673ed84a36056cc524d97 of change oom~master~I8f796ce6b18f007b4cdf31b79f2ac5d9ab0ec37a
+2023-01-15 17:16:21,800;Gerrit data export pipeline;INFO;Processing file kubernetes/dcaegen2-services/components/dcae-ves-openapi-manager/templates/secrets.yaml of revision c8553d8b8939ace2039673ed84a36056cc524d97 of change oom~master~I8f796ce6b18f007b4cdf31b79f2ac5d9ab0ec37a
+2023-01-15 17:16:21,970;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~I8f796ce6b18f007b4cdf31b79f2ac5d9ab0ec37a/revisions/c8553d8b8939ace2039673ed84a36056cc524d97/files/kubernetes%2Fdcaegen2-services%2Fcomponents%2Fdcae-ves-openapi-manager%2Ftemplates%2Fsecrets.yaml/content HTTP/1.1" 200 663
+2023-01-15 17:16:21,971;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:22,140;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~I8f796ce6b18f007b4cdf31b79f2ac5d9ab0ec37a/revisions/c8553d8b8939ace2039673ed84a36056cc524d97/files/kubernetes%2Fdcaegen2-services%2Fcomponents%2Fdcae-ves-openapi-manager%2Ftemplates%2Fsecrets.yaml/content HTTP/1.1" 200 663
+2023-01-15 17:16:22,141;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:22,142;Gerrit data export pipeline;INFO;Processing file kubernetes/dcaegen2-services/components/dcae-ves-openapi-manager/values.yaml of revision c8553d8b8939ace2039673ed84a36056cc524d97 of change oom~master~I8f796ce6b18f007b4cdf31b79f2ac5d9ab0ec37a
+2023-01-15 17:16:22,314;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~I8f796ce6b18f007b4cdf31b79f2ac5d9ab0ec37a/revisions/c8553d8b8939ace2039673ed84a36056cc524d97/files/kubernetes%2Fdcaegen2-services%2Fcomponents%2Fdcae-ves-openapi-manager%2Fvalues.yaml/content HTTP/1.1" 200 4182
+2023-01-15 17:16:22,315;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:22,487;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~I8f796ce6b18f007b4cdf31b79f2ac5d9ab0ec37a/revisions/c8553d8b8939ace2039673ed84a36056cc524d97/files/kubernetes%2Fdcaegen2-services%2Fcomponents%2Fdcae-ves-openapi-manager%2Fvalues.yaml/content HTTP/1.1" 200 4182
+2023-01-15 17:16:22,488;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:22,662;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~I8f796ce6b18f007b4cdf31b79f2ac5d9ab0ec37a/revisions/c8553d8b8939ace2039673ed84a36056cc524d97/files/kubernetes%2Fdcaegen2-services%2Fcomponents%2Fdcae-ves-openapi-manager%2Fvalues.yaml/content HTTP/1.1" 200 4182
+2023-01-15 17:16:22,663;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:22,832;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~I8f796ce6b18f007b4cdf31b79f2ac5d9ab0ec37a/revisions/c8553d8b8939ace2039673ed84a36056cc524d97/files/kubernetes%2Fdcaegen2-services%2Fcomponents%2Fdcae-ves-openapi-manager%2Fvalues.yaml/content HTTP/1.1" 200 4182
+2023-01-15 17:16:22,833;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:23,001;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~I8f796ce6b18f007b4cdf31b79f2ac5d9ab0ec37a/revisions/6b11dd48fc4c832f75c5621dfdbf197132a6e6f5/comments HTTP/1.1" 200 8
+2023-01-15 17:16:23,002;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:23,003;Gerrit data export pipeline;INFO;Processing revision 6b11dd48fc4c832f75c5621dfdbf197132a6e6f5 of change oom~master~I8f796ce6b18f007b4cdf31b79f2ac5d9ab0ec37a
+2023-01-15 17:16:23,172;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~I8f796ce6b18f007b4cdf31b79f2ac5d9ab0ec37a/revisions/f1d43f7407c41b81254de79a69a948a2ed4727b5/comments HTTP/1.1" 200 8
+2023-01-15 17:16:23,173;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:23,173;Gerrit data export pipeline;INFO;Processing revision f1d43f7407c41b81254de79a69a948a2ed4727b5 of change oom~master~I8f796ce6b18f007b4cdf31b79f2ac5d9ab0ec37a
+2023-01-15 17:16:23,174;Gerrit data export pipeline;INFO;Processed 297 of 500 changes
+2023-01-15 17:16:23,345;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13/revisions/72c531c0ca8a508904ee7b531d7fdcf5ebc5c581/comments HTTP/1.1" 200 8
+2023-01-15 17:16:23,346;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:23,346;Gerrit data export pipeline;INFO;Processing revision 72c531c0ca8a508904ee7b531d7fdcf5ebc5c581 of change oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13
+2023-01-15 17:16:23,516;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13/revisions/ee2affa828258ca651a373993252742c60fb07a7/comments HTTP/1.1" 200 748
+2023-01-15 17:16:23,517;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:23,518;Gerrit data export pipeline;INFO;Processing revision ee2affa828258ca651a373993252742c60fb07a7 of change oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13
+2023-01-15 17:16:23,519;Gerrit data export pipeline;INFO;Processing file kubernetes/common/common/templates/_strimzikafka.tpl of revision ee2affa828258ca651a373993252742c60fb07a7 of change oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13
+2023-01-15 17:16:23,689;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13/revisions/ee2affa828258ca651a373993252742c60fb07a7/files/kubernetes%2Fcommon%2Fcommon%2Ftemplates%2F_strimzikafka.tpl/content HTTP/1.1" 200 5791
+2023-01-15 17:16:23,690;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:23,863;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13/revisions/ee2affa828258ca651a373993252742c60fb07a7/files/kubernetes%2Fcommon%2Fcommon%2Ftemplates%2F_strimzikafka.tpl/content HTTP/1.1" 200 5791
+2023-01-15 17:16:23,864;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:24,035;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13/revisions/3763d28faa68d5f3131cbd910613aa25ca7bed0e/comments HTTP/1.1" 200 2622
+2023-01-15 17:16:24,036;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:24,037;Gerrit data export pipeline;INFO;Processing revision 3763d28faa68d5f3131cbd910613aa25ca7bed0e of change oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13
+2023-01-15 17:16:24,037;Gerrit data export pipeline;INFO;Processing file kubernetes/common/common/templates/_strimzikafka.tpl of revision 3763d28faa68d5f3131cbd910613aa25ca7bed0e of change oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13
+2023-01-15 17:16:24,206;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13/revisions/3763d28faa68d5f3131cbd910613aa25ca7bed0e/files/kubernetes%2Fcommon%2Fcommon%2Ftemplates%2F_strimzikafka.tpl/content HTTP/1.1" 200 5815
+2023-01-15 17:16:24,207;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:24,378;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13/revisions/3763d28faa68d5f3131cbd910613aa25ca7bed0e/files/kubernetes%2Fcommon%2Fcommon%2Ftemplates%2F_strimzikafka.tpl/content HTTP/1.1" 200 5815
+2023-01-15 17:16:24,379;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:24,622;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13/revisions/3763d28faa68d5f3131cbd910613aa25ca7bed0e/files/kubernetes%2Fcommon%2Fcommon%2Ftemplates%2F_strimzikafka.tpl/content HTTP/1.1" 200 5815
+2023-01-15 17:16:24,623;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:24,795;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13/revisions/3763d28faa68d5f3131cbd910613aa25ca7bed0e/files/kubernetes%2Fcommon%2Fcommon%2Ftemplates%2F_strimzikafka.tpl/content HTTP/1.1" 200 5815
+2023-01-15 17:16:24,796;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:24,968;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13/revisions/3763d28faa68d5f3131cbd910613aa25ca7bed0e/files/kubernetes%2Fcommon%2Fcommon%2Ftemplates%2F_strimzikafka.tpl/content HTTP/1.1" 200 5815
+2023-01-15 17:16:24,969;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:25,141;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13/revisions/3763d28faa68d5f3131cbd910613aa25ca7bed0e/files/kubernetes%2Fcommon%2Fcommon%2Ftemplates%2F_strimzikafka.tpl/content HTTP/1.1" 200 5815
+2023-01-15 17:16:25,142;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:25,313;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13/revisions/3763d28faa68d5f3131cbd910613aa25ca7bed0e/files/kubernetes%2Fcommon%2Fcommon%2Ftemplates%2F_strimzikafka.tpl/content HTTP/1.1" 200 5815
+2023-01-15 17:16:25,314;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:25,508;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13/revisions/3763d28faa68d5f3131cbd910613aa25ca7bed0e/files/kubernetes%2Fcommon%2Fcommon%2Ftemplates%2F_strimzikafka.tpl/content HTTP/1.1" 200 5815
+2023-01-15 17:16:25,509;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:25,679;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13/revisions/3763d28faa68d5f3131cbd910613aa25ca7bed0e/files/kubernetes%2Fcommon%2Fcommon%2Ftemplates%2F_strimzikafka.tpl/content HTTP/1.1" 200 5815
+2023-01-15 17:16:25,680;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:25,854;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13/revisions/3763d28faa68d5f3131cbd910613aa25ca7bed0e/files/kubernetes%2Fcommon%2Fcommon%2Ftemplates%2F_strimzikafka.tpl/content HTTP/1.1" 200 5815
+2023-01-15 17:16:25,855;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:26,024;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13/revisions/2f1c2a20f251a5106be6c28a8e96f5e9943cf4bb/comments HTTP/1.1" 200 8
+2023-01-15 17:16:26,025;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:26,026;Gerrit data export pipeline;INFO;Processing revision 2f1c2a20f251a5106be6c28a8e96f5e9943cf4bb of change oom~master~Idc3c5af7f4945466f8419fed7d2f43de36aacd13
+2023-01-15 17:16:26,026;Gerrit data export pipeline;INFO;Processed 298 of 500 changes
+2023-01-15 17:16:26,231;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I3c9e72cafafb734852a594d14184edfc459db9fb/revisions/b9e42bd4000534ae72d2e01c6b3261f4e7e7533f/comments HTTP/1.1" 200 873
+2023-01-15 17:16:26,232;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:26,233;Gerrit data export pipeline;INFO;Processing revision b9e42bd4000534ae72d2e01c6b3261f4e7e7533f of change cps~master~I3c9e72cafafb734852a594d14184edfc459db9fb
+2023-01-15 17:16:26,233;Gerrit data export pipeline;INFO;Processing file cps-ri/pom.xml of revision b9e42bd4000534ae72d2e01c6b3261f4e7e7533f of change cps~master~I3c9e72cafafb734852a594d14184edfc459db9fb
+2023-01-15 17:16:26,407;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I3c9e72cafafb734852a594d14184edfc459db9fb/revisions/b9e42bd4000534ae72d2e01c6b3261f4e7e7533f/files/cps-ri%2Fpom.xml/content HTTP/1.1" 200 10308
+2023-01-15 17:16:26,408;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:26,584;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I3c9e72cafafb734852a594d14184edfc459db9fb/revisions/b9e42bd4000534ae72d2e01c6b3261f4e7e7533f/files/cps-ri%2Fpom.xml/content HTTP/1.1" 200 10308
+2023-01-15 17:16:26,585;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:26,754;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I3c9e72cafafb734852a594d14184edfc459db9fb/revisions/20220920b98f7c55bbcf98034328d5eee8910538/comments HTTP/1.1" 200 8
+2023-01-15 17:16:26,755;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:26,755;Gerrit data export pipeline;INFO;Processing revision 20220920b98f7c55bbcf98034328d5eee8910538 of change cps~master~I3c9e72cafafb734852a594d14184edfc459db9fb
+2023-01-15 17:16:26,756;Gerrit data export pipeline;INFO;Processed 299 of 500 changes
+2023-01-15 17:16:26,757;Gerrit data export pipeline;INFO;INFO: Extracting change: 300 of 500 starting at : 0
+2023-01-15 17:16:26,927;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ci-management~master~I44c198e86f09f06d4ccd6e8b89c111ee49ebee2c/revisions/47574f16cad38a07746c26a7a875138ebe14fe15/comments HTTP/1.1" 200 2524
+2023-01-15 17:16:26,929;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:26,930;Gerrit data export pipeline;INFO;Processing revision 47574f16cad38a07746c26a7a875138ebe14fe15 of change ci-management~master~I44c198e86f09f06d4ccd6e8b89c111ee49ebee2c
+2023-01-15 17:16:26,931;Gerrit data export pipeline;INFO;Processing file jjb/global-macros.yaml of revision 47574f16cad38a07746c26a7a875138ebe14fe15 of change ci-management~master~I44c198e86f09f06d4ccd6e8b89c111ee49ebee2c
+2023-01-15 17:16:27,107;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ci-management~master~I44c198e86f09f06d4ccd6e8b89c111ee49ebee2c/revisions/47574f16cad38a07746c26a7a875138ebe14fe15/files/jjb%2Fglobal-macros.yaml/content HTTP/1.1" 200 16755
+2023-01-15 17:16:27,108;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:27,280;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ci-management~master~I44c198e86f09f06d4ccd6e8b89c111ee49ebee2c/revisions/47574f16cad38a07746c26a7a875138ebe14fe15/files/jjb%2Fglobal-macros.yaml/content HTTP/1.1" 200 16755
+2023-01-15 17:16:27,281;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:27,452;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ci-management~master~I44c198e86f09f06d4ccd6e8b89c111ee49ebee2c/revisions/47574f16cad38a07746c26a7a875138ebe14fe15/files/jjb%2Fglobal-macros.yaml/content HTTP/1.1" 200 16755
+2023-01-15 17:16:27,453;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:27,627;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ci-management~master~I44c198e86f09f06d4ccd6e8b89c111ee49ebee2c/revisions/47574f16cad38a07746c26a7a875138ebe14fe15/files/jjb%2Fglobal-macros.yaml/content HTTP/1.1" 200 16755
+2023-01-15 17:16:27,628;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:27,825;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ci-management~master~I44c198e86f09f06d4ccd6e8b89c111ee49ebee2c/revisions/47574f16cad38a07746c26a7a875138ebe14fe15/files/jjb%2Fglobal-macros.yaml/content HTTP/1.1" 200 16755
+2023-01-15 17:16:27,826;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:27,999;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ci-management~master~I44c198e86f09f06d4ccd6e8b89c111ee49ebee2c/revisions/47574f16cad38a07746c26a7a875138ebe14fe15/files/jjb%2Fglobal-macros.yaml/content HTTP/1.1" 200 16755
+2023-01-15 17:16:28,000;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:28,170;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ci-management~master~I44c198e86f09f06d4ccd6e8b89c111ee49ebee2c/revisions/04187791cf1f70093b70fd063050af107aaf8cba/comments HTTP/1.1" 200 8
+2023-01-15 17:16:28,171;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:28,172;Gerrit data export pipeline;INFO;Processing revision 04187791cf1f70093b70fd063050af107aaf8cba of change ci-management~master~I44c198e86f09f06d4ccd6e8b89c111ee49ebee2c
+2023-01-15 17:16:28,341;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ci-management~master~I44c198e86f09f06d4ccd6e8b89c111ee49ebee2c/revisions/0d19d3bfb1d47d3dcd5fe5a6db3a8445c5a1007c/comments HTTP/1.1" 200 8
+2023-01-15 17:16:28,342;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:28,343;Gerrit data export pipeline;INFO;Processing revision 0d19d3bfb1d47d3dcd5fe5a6db3a8445c5a1007c of change ci-management~master~I44c198e86f09f06d4ccd6e8b89c111ee49ebee2c
+2023-01-15 17:16:28,343;Gerrit data export pipeline;INFO;Processed 300 of 500 changes
+2023-01-15 17:16:28,514;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/dcaegen2%2Fservices%2Fsdk~master~I76ba5e8cf4e5b1525ef7aab8bc9e18b46d540dab/revisions/474bc0c21b59bb043bf145af1a3c7f38a969c849/comments HTTP/1.1" 200 8
+2023-01-15 17:16:28,515;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:28,516;Gerrit data export pipeline;INFO;Processing revision 474bc0c21b59bb043bf145af1a3c7f38a969c849 of change dcaegen2%2Fservices%2Fsdk~master~I76ba5e8cf4e5b1525ef7aab8bc9e18b46d540dab
+2023-01-15 17:16:28,688;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/dcaegen2%2Fservices%2Fsdk~master~I76ba5e8cf4e5b1525ef7aab8bc9e18b46d540dab/revisions/d4bd1587ce3ea956d8ee44dc7902050c528604c5/comments HTTP/1.1" 200 8
+2023-01-15 17:16:28,689;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:28,690;Gerrit data export pipeline;INFO;Processing revision d4bd1587ce3ea956d8ee44dc7902050c528604c5 of change dcaegen2%2Fservices%2Fsdk~master~I76ba5e8cf4e5b1525ef7aab8bc9e18b46d540dab
+2023-01-15 17:16:28,690;Gerrit data export pipeline;INFO;Processed 301 of 500 changes
+2023-01-15 17:16:28,864;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/dcaegen2%2Fcollectors%2Fves~master~Ic9c4c2e6eb3312fe02a8a9ed003e4326747813bd/revisions/3c31bdcdf18aff4bf755058e2d32e153d8216eb5/comments HTTP/1.1" 200 8
+2023-01-15 17:16:28,865;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:28,865;Gerrit data export pipeline;INFO;Processing revision 3c31bdcdf18aff4bf755058e2d32e153d8216eb5 of change dcaegen2%2Fcollectors%2Fves~master~Ic9c4c2e6eb3312fe02a8a9ed003e4326747813bd
+2023-01-15 17:16:29,036;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/dcaegen2%2Fcollectors%2Fves~master~Ic9c4c2e6eb3312fe02a8a9ed003e4326747813bd/revisions/53dea6a03c25d9c6c8145c0bea073f98f8fa4626/comments HTTP/1.1" 200 8
+2023-01-15 17:16:29,037;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:29,037;Gerrit data export pipeline;INFO;Processing revision 53dea6a03c25d9c6c8145c0bea073f98f8fa4626 of change dcaegen2%2Fcollectors%2Fves~master~Ic9c4c2e6eb3312fe02a8a9ed003e4326747813bd
+2023-01-15 17:16:29,206;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/dcaegen2%2Fcollectors%2Fves~master~Ic9c4c2e6eb3312fe02a8a9ed003e4326747813bd/revisions/0525e549fffe12bf4881fdf37cb9a87cbf26baeb/comments HTTP/1.1" 200 8
+2023-01-15 17:16:29,207;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:29,207;Gerrit data export pipeline;INFO;Processing revision 0525e549fffe12bf4881fdf37cb9a87cbf26baeb of change dcaegen2%2Fcollectors%2Fves~master~Ic9c4c2e6eb3312fe02a8a9ed003e4326747813bd
+2023-01-15 17:16:29,378;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/dcaegen2%2Fcollectors%2Fves~master~Ic9c4c2e6eb3312fe02a8a9ed003e4326747813bd/revisions/7aa55f5a1b223c822672a1fa0302431e455b2040/comments HTTP/1.1" 200 8
+2023-01-15 17:16:29,379;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:29,379;Gerrit data export pipeline;INFO;Processing revision 7aa55f5a1b223c822672a1fa0302431e455b2040 of change dcaegen2%2Fcollectors%2Fves~master~Ic9c4c2e6eb3312fe02a8a9ed003e4326747813bd
+2023-01-15 17:16:29,567;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/dcaegen2%2Fcollectors%2Fves~master~Ic9c4c2e6eb3312fe02a8a9ed003e4326747813bd/revisions/6f2a51ba02170b736dbb8389cb4b77cef3ac7e91/comments HTTP/1.1" 200 8
+2023-01-15 17:16:29,568;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:29,568;Gerrit data export pipeline;INFO;Processing revision 6f2a51ba02170b736dbb8389cb4b77cef3ac7e91 of change dcaegen2%2Fcollectors%2Fves~master~Ic9c4c2e6eb3312fe02a8a9ed003e4326747813bd
+2023-01-15 17:16:29,738;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/dcaegen2%2Fcollectors%2Fves~master~Ic9c4c2e6eb3312fe02a8a9ed003e4326747813bd/revisions/b7468c9b6a49dbb904213977fca9e4fc41915f1b/comments HTTP/1.1" 200 8
+2023-01-15 17:16:29,739;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:29,739;Gerrit data export pipeline;INFO;Processing revision b7468c9b6a49dbb904213977fca9e4fc41915f1b of change dcaegen2%2Fcollectors%2Fves~master~Ic9c4c2e6eb3312fe02a8a9ed003e4326747813bd
+2023-01-15 17:16:29,910;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/dcaegen2%2Fcollectors%2Fves~master~Ic9c4c2e6eb3312fe02a8a9ed003e4326747813bd/revisions/348d7f9e55695e04b7fe8e30d7b687da978717cb/comments HTTP/1.1" 200 912
+2023-01-15 17:16:29,912;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:29,913;Gerrit data export pipeline;INFO;Processing revision 348d7f9e55695e04b7fe8e30d7b687da978717cb of change dcaegen2%2Fcollectors%2Fves~master~Ic9c4c2e6eb3312fe02a8a9ed003e4326747813bd
+2023-01-15 17:16:29,913;Gerrit data export pipeline;INFO;Processing file /COMMIT_MSG of revision 348d7f9e55695e04b7fe8e30d7b687da978717cb of change dcaegen2%2Fcollectors%2Fves~master~Ic9c4c2e6eb3312fe02a8a9ed003e4326747813bd
+2023-01-15 17:16:30,084;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/dcaegen2%2Fcollectors%2Fves~master~Ic9c4c2e6eb3312fe02a8a9ed003e4326747813bd/revisions/348d7f9e55695e04b7fe8e30d7b687da978717cb/files/%2FCOMMIT_MSG/content HTTP/1.1" 200 193
+2023-01-15 17:16:30,085;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:30,086;Gerrit data export pipeline;INFO;Processing file Changelog.md of revision 348d7f9e55695e04b7fe8e30d7b687da978717cb of change dcaegen2%2Fcollectors%2Fves~master~Ic9c4c2e6eb3312fe02a8a9ed003e4326747813bd
+2023-01-15 17:16:30,263;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/dcaegen2%2Fcollectors%2Fves~master~Ic9c4c2e6eb3312fe02a8a9ed003e4326747813bd/revisions/348d7f9e55695e04b7fe8e30d7b687da978717cb/files/Changelog.md/content HTTP/1.1" 200 5457
+2023-01-15 17:16:30,264;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:30,434;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/dcaegen2%2Fcollectors%2Fves~master~Ic9c4c2e6eb3312fe02a8a9ed003e4326747813bd/revisions/348d7f9e55695e04b7fe8e30d7b687da978717cb/files/Changelog.md/content HTTP/1.1" 200 5457
+2023-01-15 17:16:30,435;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:30,436;Gerrit data export pipeline;INFO;Processed 302 of 500 changes
+2023-01-15 17:16:30,606;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdnc%2Foam~master~I612aabfbbb39ec821060de0b2870ba5010fd6714/revisions/2375bda8d57b55fc9eec7d16c7b8534ab471a49a/comments HTTP/1.1" 200 8
+2023-01-15 17:16:30,607;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:30,607;Gerrit data export pipeline;INFO;Processing revision 2375bda8d57b55fc9eec7d16c7b8534ab471a49a of change sdnc%2Foam~master~I612aabfbbb39ec821060de0b2870ba5010fd6714
+2023-01-15 17:16:30,778;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdnc%2Foam~master~I612aabfbbb39ec821060de0b2870ba5010fd6714/revisions/b6d9dac90bdb12c016912adf85c3bf7db77791c1/comments HTTP/1.1" 200 8
+2023-01-15 17:16:30,779;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:30,780;Gerrit data export pipeline;INFO;Processing revision b6d9dac90bdb12c016912adf85c3bf7db77791c1 of change sdnc%2Foam~master~I612aabfbbb39ec821060de0b2870ba5010fd6714
+2023-01-15 17:16:30,780;Gerrit data export pipeline;INFO;Processed 303 of 500 changes
+2023-01-15 17:16:30,952;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fclamp~master~I49f48bc7828cb49dab854ef9ed16a9aa377983e1/revisions/eb1839fecde824acbe81f66a6e8f143f3be8d01b/comments HTTP/1.1" 200 768
+2023-01-15 17:16:30,953;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:30,954;Gerrit data export pipeline;INFO;Processing revision eb1839fecde824acbe81f66a6e8f143f3be8d01b of change policy%2Fclamp~master~I49f48bc7828cb49dab854ef9ed16a9aa377983e1
+2023-01-15 17:16:30,955;Gerrit data export pipeline;INFO;Processing file runtime-acm/src/main/java/org/onap/policy/clamp/acm/runtime/main/rest/CommissioningController.java of revision eb1839fecde824acbe81f66a6e8f143f3be8d01b of change policy%2Fclamp~master~I49f48bc7828cb49dab854ef9ed16a9aa377983e1
+2023-01-15 17:16:31,125;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fclamp~master~I49f48bc7828cb49dab854ef9ed16a9aa377983e1/revisions/eb1839fecde824acbe81f66a6e8f143f3be8d01b/files/runtime-acm%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fpolicy%2Fclamp%2Facm%2Fruntime%2Fmain%2Frest%2FCommissioningController.java/content HTTP/1.1" 200 5608
+2023-01-15 17:16:31,126;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:31,297;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fclamp~master~I49f48bc7828cb49dab854ef9ed16a9aa377983e1/revisions/eb1839fecde824acbe81f66a6e8f143f3be8d01b/files/runtime-acm%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fpolicy%2Fclamp%2Facm%2Fruntime%2Fmain%2Frest%2FCommissioningController.java/content HTTP/1.1" 200 5608
+2023-01-15 17:16:31,298;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:31,468;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fclamp~master~I49f48bc7828cb49dab854ef9ed16a9aa377983e1/revisions/e4f2a503abff22b930568687669fa3ff4d21e20c/comments HTTP/1.1" 200 8
+2023-01-15 17:16:31,469;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:31,470;Gerrit data export pipeline;INFO;Processing revision e4f2a503abff22b930568687669fa3ff4d21e20c of change policy%2Fclamp~master~I49f48bc7828cb49dab854ef9ed16a9aa377983e1
+2023-01-15 17:16:31,671;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fclamp~master~I49f48bc7828cb49dab854ef9ed16a9aa377983e1/revisions/02fa04bb71ddb55afb9656075358fd7ddd61a17b/comments HTTP/1.1" 200 502
+2023-01-15 17:16:31,673;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:31,673;Gerrit data export pipeline;INFO;Processing revision 02fa04bb71ddb55afb9656075358fd7ddd61a17b of change policy%2Fclamp~master~I49f48bc7828cb49dab854ef9ed16a9aa377983e1
+2023-01-15 17:16:31,674;Gerrit data export pipeline;INFO;Processing file participant/participant-impl/participant-impl-acelement/src/main/java/org/onap/policy/clamp/acm/element/main/rest/AcElementController.java of revision 02fa04bb71ddb55afb9656075358fd7ddd61a17b of change policy%2Fclamp~master~I49f48bc7828cb49dab854ef9ed16a9aa377983e1
+2023-01-15 17:16:31,845;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fclamp~master~I49f48bc7828cb49dab854ef9ed16a9aa377983e1/revisions/02fa04bb71ddb55afb9656075358fd7ddd61a17b/files/participant%2Fparticipant-impl%2Fparticipant-impl-acelement%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fpolicy%2Fclamp%2Facm%2Felement%2Fmain%2Frest%2FAcElementController.java/content HTTP/1.1" 200 3755
+2023-01-15 17:16:31,846;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:32,015;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fclamp~master~I49f48bc7828cb49dab854ef9ed16a9aa377983e1/revisions/cf5af3fd2e67b0aef402114a0f3ae263fdfc7efe/comments HTTP/1.1" 200 8
+2023-01-15 17:16:32,016;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:32,017;Gerrit data export pipeline;INFO;Processing revision cf5af3fd2e67b0aef402114a0f3ae263fdfc7efe of change policy%2Fclamp~master~I49f48bc7828cb49dab854ef9ed16a9aa377983e1
+2023-01-15 17:16:32,017;Gerrit data export pipeline;INFO;Processed 304 of 500 changes
+2023-01-15 17:16:32,188;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ci-management~master~Ic5276c18e29af97e9a201fccba9074bece5e8e23/revisions/1a16d1d25ca0f16cb14af1f62847ccea6297b6cc/comments HTTP/1.1" 200 8
+2023-01-15 17:16:32,189;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:32,189;Gerrit data export pipeline;INFO;Processing revision 1a16d1d25ca0f16cb14af1f62847ccea6297b6cc of change ci-management~master~Ic5276c18e29af97e9a201fccba9074bece5e8e23
+2023-01-15 17:16:32,390;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ci-management~master~Ic5276c18e29af97e9a201fccba9074bece5e8e23/revisions/c99290ad43a4928ea133b4becbba8ed49cdb7eb7/comments HTTP/1.1" 200 8
+2023-01-15 17:16:32,392;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:32,392;Gerrit data export pipeline;INFO;Processing revision c99290ad43a4928ea133b4becbba8ed49cdb7eb7 of change ci-management~master~Ic5276c18e29af97e9a201fccba9074bece5e8e23
+2023-01-15 17:16:32,561;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ci-management~master~Ic5276c18e29af97e9a201fccba9074bece5e8e23/revisions/276974dd7c6958f91f04be20e98521d908d22e46/comments HTTP/1.1" 200 8
+2023-01-15 17:16:32,562;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:32,563;Gerrit data export pipeline;INFO;Processing revision 276974dd7c6958f91f04be20e98521d908d22e46 of change ci-management~master~Ic5276c18e29af97e9a201fccba9074bece5e8e23
+2023-01-15 17:16:32,734;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ci-management~master~Ic5276c18e29af97e9a201fccba9074bece5e8e23/revisions/633f1120d3f65dc70c712930ef8f32cc4afabc97/comments HTTP/1.1" 200 8
+2023-01-15 17:16:32,735;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:32,736;Gerrit data export pipeline;INFO;Processing revision 633f1120d3f65dc70c712930ef8f32cc4afabc97 of change ci-management~master~Ic5276c18e29af97e9a201fccba9074bece5e8e23
+2023-01-15 17:16:32,737;Gerrit data export pipeline;INFO;Processed 305 of 500 changes
+2023-01-15 17:16:32,908;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ccsdk%2Foran~master~I2dc966a1a4c5adc3eadfa273b6e1e04785b06114/revisions/846194ae25dda406845a6a2045881aa74955d434/comments HTTP/1.1" 200 8
+2023-01-15 17:16:32,909;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:32,910;Gerrit data export pipeline;INFO;Processing revision 846194ae25dda406845a6a2045881aa74955d434 of change ccsdk%2Foran~master~I2dc966a1a4c5adc3eadfa273b6e1e04785b06114
+2023-01-15 17:16:33,087;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ccsdk%2Foran~master~I2dc966a1a4c5adc3eadfa273b6e1e04785b06114/revisions/bf5e4cd0b2b2ad91238a34c558ba888c38117376/comments HTTP/1.1" 200 8
+2023-01-15 17:16:33,088;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:33,089;Gerrit data export pipeline;INFO;Processing revision bf5e4cd0b2b2ad91238a34c558ba888c38117376 of change ccsdk%2Foran~master~I2dc966a1a4c5adc3eadfa273b6e1e04785b06114
+2023-01-15 17:16:33,089;Gerrit data export pipeline;INFO;Processed 306 of 500 changes
+2023-01-15 17:16:33,259;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ccsdk%2Fcds~kohn~If1eb43aa8282c1624e555d7d9ac3e9b1071c65d4/revisions/838199279bbfe796807be0c4d189e52abc2755bc/comments HTTP/1.1" 200 8
+2023-01-15 17:16:33,260;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:33,261;Gerrit data export pipeline;INFO;Processing revision 838199279bbfe796807be0c4d189e52abc2755bc of change ccsdk%2Fcds~kohn~If1eb43aa8282c1624e555d7d9ac3e9b1071c65d4
+2023-01-15 17:16:33,261;Gerrit data export pipeline;INFO;Processed 307 of 500 changes
+2023-01-15 17:16:33,432;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdnc%2Fnorthbound~kohn~I95f355baa87dcfe115a2a5a20f3f11861be74415/revisions/7252853d61a63258c94252e614bc1944a2af1054/comments HTTP/1.1" 200 8
+2023-01-15 17:16:33,433;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:33,434;Gerrit data export pipeline;INFO;Processing revision 7252853d61a63258c94252e614bc1944a2af1054 of change sdnc%2Fnorthbound~kohn~I95f355baa87dcfe115a2a5a20f3f11861be74415
+2023-01-15 17:16:33,435;Gerrit data export pipeline;INFO;Processed 308 of 500 changes
+2023-01-15 17:16:33,606;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I8346fe8bd001adf89516c5d5ea886c11b4283b4d/revisions/6f7618074a0b5c2760c7eb2b29e88acab0c00c9a/comments HTTP/1.1" 200 8
+2023-01-15 17:16:33,607;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:33,607;Gerrit data export pipeline;INFO;Processing revision 6f7618074a0b5c2760c7eb2b29e88acab0c00c9a of change sdc~master~I8346fe8bd001adf89516c5d5ea886c11b4283b4d
+2023-01-15 17:16:33,776;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I8346fe8bd001adf89516c5d5ea886c11b4283b4d/revisions/484fe1cb4a5af2cf11bcdbab330a14e8251b1537/comments HTTP/1.1" 200 8
+2023-01-15 17:16:33,777;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:33,778;Gerrit data export pipeline;INFO;Processing revision 484fe1cb4a5af2cf11bcdbab330a14e8251b1537 of change sdc~master~I8346fe8bd001adf89516c5d5ea886c11b4283b4d
+2023-01-15 17:16:33,778;Gerrit data export pipeline;INFO;Processed 309 of 500 changes
+2023-01-15 17:16:34,000;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Id3867c8d33cd2c57d4d815c687561e23d1029bfd/revisions/382fa3cf69b7a19d8dbfa1fe11cefce7ad65ff4b/comments HTTP/1.1" 200 8
+2023-01-15 17:16:34,001;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:34,002;Gerrit data export pipeline;INFO;Processing revision 382fa3cf69b7a19d8dbfa1fe11cefce7ad65ff4b of change cps~master~Id3867c8d33cd2c57d4d815c687561e23d1029bfd
+2023-01-15 17:16:34,171;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Id3867c8d33cd2c57d4d815c687561e23d1029bfd/revisions/fe9f46e0cf3c62e053a0e8a3ecbb7869e8c66d0f/comments HTTP/1.1" 200 8
+2023-01-15 17:16:34,172;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:34,173;Gerrit data export pipeline;INFO;Processing revision fe9f46e0cf3c62e053a0e8a3ecbb7869e8c66d0f of change cps~master~Id3867c8d33cd2c57d4d815c687561e23d1029bfd
+2023-01-15 17:16:34,173;Gerrit data export pipeline;INFO;Processed 310 of 500 changes
+2023-01-15 17:16:34,347;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/8c5f50032b95fabfb2eeda9cce36ce1b8d96d841/comments HTTP/1.1" 200 8
+2023-01-15 17:16:34,348;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:34,349;Gerrit data export pipeline;INFO;Processing revision 8c5f50032b95fabfb2eeda9cce36ce1b8d96d841 of change cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4
+2023-01-15 17:16:34,525;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/d4b9c9f87d93017427e4b5f6b9bb78b008090066/comments HTTP/1.1" 200 766
+2023-01-15 17:16:34,526;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:34,527;Gerrit data export pipeline;INFO;Processing revision d4b9c9f87d93017427e4b5f6b9bb78b008090066 of change cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4
+2023-01-15 17:16:34,527;Gerrit data export pipeline;INFO;Processing file cps-service/src/main/java/org/onap/cps/utils/YangUtils.java of revision d4b9c9f87d93017427e4b5f6b9bb78b008090066 of change cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4
+2023-01-15 17:16:34,699;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/d4b9c9f87d93017427e4b5f6b9bb78b008090066/files/cps-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Futils%2FYangUtils.java/content HTTP/1.1" 200 12183
+2023-01-15 17:16:34,700;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:34,871;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/d4b9c9f87d93017427e4b5f6b9bb78b008090066/files/cps-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Futils%2FYangUtils.java/content HTTP/1.1" 200 12183
+2023-01-15 17:16:34,872;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:35,041;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/3c8773ecd2b5aa4c76aff41ad4069f513f9f944e/comments HTTP/1.1" 200 8
+2023-01-15 17:16:35,042;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:35,043;Gerrit data export pipeline;INFO;Processing revision 3c8773ecd2b5aa4c76aff41ad4069f513f9f944e of change cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4
+2023-01-15 17:16:35,233;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/96d4a64bc03c3def8153448afd6e373bfe0d193e/comments HTTP/1.1" 200 8
+2023-01-15 17:16:35,234;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:35,234;Gerrit data export pipeline;INFO;Processing revision 96d4a64bc03c3def8153448afd6e373bfe0d193e of change cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4
+2023-01-15 17:16:35,406;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/289644042b9202acaf4e5ed3f00c5cb35819faa3/comments HTTP/1.1" 200 2914
+2023-01-15 17:16:35,407;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:35,408;Gerrit data export pipeline;INFO;Processing revision 289644042b9202acaf4e5ed3f00c5cb35819faa3 of change cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4
+2023-01-15 17:16:35,409;Gerrit data export pipeline;INFO;Processing file cps-service/src/main/java/org/onap/cps/utils/YangUtils.java of revision 289644042b9202acaf4e5ed3f00c5cb35819faa3 of change cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4
+2023-01-15 17:16:35,585;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/289644042b9202acaf4e5ed3f00c5cb35819faa3/files/cps-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Futils%2FYangUtils.java/content HTTP/1.1" 200 11962
+2023-01-15 17:16:35,586;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:35,761;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/289644042b9202acaf4e5ed3f00c5cb35819faa3/files/cps-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Futils%2FYangUtils.java/content HTTP/1.1" 200 11962
+2023-01-15 17:16:35,762;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:35,937;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/289644042b9202acaf4e5ed3f00c5cb35819faa3/files/cps-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Futils%2FYangUtils.java/content HTTP/1.1" 200 11962
+2023-01-15 17:16:35,938;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:36,108;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/289644042b9202acaf4e5ed3f00c5cb35819faa3/files/cps-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Futils%2FYangUtils.java/content HTTP/1.1" 200 11962
+2023-01-15 17:16:36,109;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:36,278;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/289644042b9202acaf4e5ed3f00c5cb35819faa3/files/cps-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Futils%2FYangUtils.java/content HTTP/1.1" 200 11962
+2023-01-15 17:16:36,280;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:36,452;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/289644042b9202acaf4e5ed3f00c5cb35819faa3/files/cps-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Futils%2FYangUtils.java/content HTTP/1.1" 200 11962
+2023-01-15 17:16:36,453;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:36,625;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/289644042b9202acaf4e5ed3f00c5cb35819faa3/files/cps-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Futils%2FYangUtils.java/content HTTP/1.1" 200 11962
+2023-01-15 17:16:36,626;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:36,796;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/289644042b9202acaf4e5ed3f00c5cb35819faa3/files/cps-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Futils%2FYangUtils.java/content HTTP/1.1" 200 11962
+2023-01-15 17:16:36,798;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:36,970;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/702ab4815e60b93d2b26d425e6aec91d07dddb00/comments HTTP/1.1" 200 1423
+2023-01-15 17:16:36,971;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:36,971;Gerrit data export pipeline;INFO;Processing revision 702ab4815e60b93d2b26d425e6aec91d07dddb00 of change cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4
+2023-01-15 17:16:36,972;Gerrit data export pipeline;INFO;Processing file cps-service/src/main/java/org/onap/cps/utils/YangUtils.java of revision 702ab4815e60b93d2b26d425e6aec91d07dddb00 of change cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4
+2023-01-15 17:16:37,143;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/702ab4815e60b93d2b26d425e6aec91d07dddb00/files/cps-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Futils%2FYangUtils.java/content HTTP/1.1" 200 12222
+2023-01-15 17:16:37,144;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:37,315;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/702ab4815e60b93d2b26d425e6aec91d07dddb00/files/cps-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Futils%2FYangUtils.java/content HTTP/1.1" 200 12222
+2023-01-15 17:16:37,316;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:37,317;Gerrit data export pipeline;INFO;Processing file cps-service/src/test/groovy/org/onap/cps/api/impl/E2ENetworkSliceSpec.groovy of revision 702ab4815e60b93d2b26d425e6aec91d07dddb00 of change cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4
+2023-01-15 17:16:37,494;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/e58d8838017988665cf4dd406d15503e3d97c27f/comments HTTP/1.1" 200 749
+2023-01-15 17:16:37,496;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:37,497;Gerrit data export pipeline;INFO;Processing revision e58d8838017988665cf4dd406d15503e3d97c27f of change cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4
+2023-01-15 17:16:37,497;Gerrit data export pipeline;INFO;Processing file cps-service/src/main/java/org/onap/cps/utils/YangUtils.java of revision e58d8838017988665cf4dd406d15503e3d97c27f of change cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4
+2023-01-15 17:16:37,669;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/e58d8838017988665cf4dd406d15503e3d97c27f/files/cps-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Futils%2FYangUtils.java/content HTTP/1.1" 200 12004
+2023-01-15 17:16:37,670;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:37,840;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/e58d8838017988665cf4dd406d15503e3d97c27f/files/cps-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Futils%2FYangUtils.java/content HTTP/1.1" 200 12004
+2023-01-15 17:16:37,842;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:38,012;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4/revisions/25969bf454bc0c965408cdc1a1ff2df223a8cb49/comments HTTP/1.1" 200 8
+2023-01-15 17:16:38,013;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:38,014;Gerrit data export pipeline;INFO;Processing revision 25969bf454bc0c965408cdc1a1ff2df223a8cb49 of change cps~master~Ib62fe424150ed0695eed168e1ae21f4d9a61cdf4
+2023-01-15 17:16:38,014;Gerrit data export pipeline;INFO;Processed 311 of 500 changes
+2023-01-15 17:16:38,184;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/dmaap%2Fmessagerouter%2Fdmaapclient~master~Iaf4a4403eee3472be60bfaa99cf398ebd82fe7c7/revisions/69a25137be1b27265b8ced62ac9b7faf4774e80b/comments HTTP/1.1" 200 8
+2023-01-15 17:16:38,185;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:38,185;Gerrit data export pipeline;INFO;Processing revision 69a25137be1b27265b8ced62ac9b7faf4774e80b of change dmaap%2Fmessagerouter%2Fdmaapclient~master~Iaf4a4403eee3472be60bfaa99cf398ebd82fe7c7
+2023-01-15 17:16:38,186;Gerrit data export pipeline;INFO;Processed 312 of 500 changes
+2023-01-15 17:16:38,355;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ci-management~master~I444448ad91c6fe608a35ac4183d410b4be8355fa/revisions/3e9e4eea215cddfeae37e0318414ac812469d453/comments HTTP/1.1" 200 8
+2023-01-15 17:16:38,357;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:38,357;Gerrit data export pipeline;INFO;Processing revision 3e9e4eea215cddfeae37e0318414ac812469d453 of change ci-management~master~I444448ad91c6fe608a35ac4183d410b4be8355fa
+2023-01-15 17:16:38,358;Gerrit data export pipeline;INFO;Processed 313 of 500 changes
+2023-01-15 17:16:38,530;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdocker~jakarta~I31ac4aa83d476dd677f611a0a0f368dbec4ac21f/revisions/5836f635321169cd68709fcdb63bf63ab1896178/comments HTTP/1.1" 200 8
+2023-01-15 17:16:38,532;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:38,533;Gerrit data export pipeline;INFO;Processing revision 5836f635321169cd68709fcdb63bf63ab1896178 of change policy%2Fdocker~jakarta~I31ac4aa83d476dd677f611a0a0f368dbec4ac21f
+2023-01-15 17:16:38,704;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdocker~jakarta~I31ac4aa83d476dd677f611a0a0f368dbec4ac21f/revisions/479d2c204f1869490b3d0f11aaa2cb84a6671b09/comments HTTP/1.1" 200 1166
+2023-01-15 17:16:38,705;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:38,706;Gerrit data export pipeline;INFO;Processing revision 479d2c204f1869490b3d0f11aaa2cb84a6671b09 of change policy%2Fdocker~jakarta~I31ac4aa83d476dd677f611a0a0f368dbec4ac21f
+2023-01-15 17:16:38,706;Gerrit data export pipeline;INFO;Processing file csit/pap/plans/setup.sh of revision 479d2c204f1869490b3d0f11aaa2cb84a6671b09 of change policy%2Fdocker~jakarta~I31ac4aa83d476dd677f611a0a0f368dbec4ac21f
+2023-01-15 17:16:38,877;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdocker~jakarta~I31ac4aa83d476dd677f611a0a0f368dbec4ac21f/revisions/479d2c204f1869490b3d0f11aaa2cb84a6671b09/files/csit%2Fpap%2Fplans%2Fsetup.sh/content HTTP/1.1" 200 3452
+2023-01-15 17:16:38,879;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:39,055;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdocker~jakarta~I31ac4aa83d476dd677f611a0a0f368dbec4ac21f/revisions/479d2c204f1869490b3d0f11aaa2cb84a6671b09/files/csit%2Fpap%2Fplans%2Fsetup.sh/content HTTP/1.1" 200 3452
+2023-01-15 17:16:39,056;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:39,227;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdocker~jakarta~I31ac4aa83d476dd677f611a0a0f368dbec4ac21f/revisions/479d2c204f1869490b3d0f11aaa2cb84a6671b09/files/csit%2Fpap%2Fplans%2Fsetup.sh/content HTTP/1.1" 200 3452
+2023-01-15 17:16:39,228;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:39,397;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdocker~jakarta~I31ac4aa83d476dd677f611a0a0f368dbec4ac21f/revisions/b32b3fce080377c7fbda782fd64618bca4fcfa2a/comments HTTP/1.1" 200 8
+2023-01-15 17:16:39,399;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:39,400;Gerrit data export pipeline;INFO;Processing revision b32b3fce080377c7fbda782fd64618bca4fcfa2a of change policy%2Fdocker~jakarta~I31ac4aa83d476dd677f611a0a0f368dbec4ac21f
+2023-01-15 17:16:39,571;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdocker~jakarta~I31ac4aa83d476dd677f611a0a0f368dbec4ac21f/revisions/07d9ad59b0592b9377f6184bd13ad7c6fddcb6c0/comments HTTP/1.1" 200 8
+2023-01-15 17:16:39,572;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:39,572;Gerrit data export pipeline;INFO;Processing revision 07d9ad59b0592b9377f6184bd13ad7c6fddcb6c0 of change policy%2Fdocker~jakarta~I31ac4aa83d476dd677f611a0a0f368dbec4ac21f
+2023-01-15 17:16:39,751;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdocker~jakarta~I31ac4aa83d476dd677f611a0a0f368dbec4ac21f/revisions/764d228d192abf1832a9e148a2c04fefb73e4135/comments HTTP/1.1" 200 8
+2023-01-15 17:16:39,752;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:39,753;Gerrit data export pipeline;INFO;Processing revision 764d228d192abf1832a9e148a2c04fefb73e4135 of change policy%2Fdocker~jakarta~I31ac4aa83d476dd677f611a0a0f368dbec4ac21f
+2023-01-15 17:16:39,923;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdocker~jakarta~I31ac4aa83d476dd677f611a0a0f368dbec4ac21f/revisions/c220f8a3ed6382e6926db348a67f1495c8205865/comments HTTP/1.1" 200 8
+2023-01-15 17:16:39,925;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:39,925;Gerrit data export pipeline;INFO;Processing revision c220f8a3ed6382e6926db348a67f1495c8205865 of change policy%2Fdocker~jakarta~I31ac4aa83d476dd677f611a0a0f368dbec4ac21f
+2023-01-15 17:16:40,099;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdocker~jakarta~I31ac4aa83d476dd677f611a0a0f368dbec4ac21f/revisions/5b01fb30f8825102415b83ce6b87db789476456c/comments HTTP/1.1" 200 8
+2023-01-15 17:16:40,100;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:40,101;Gerrit data export pipeline;INFO;Processing revision 5b01fb30f8825102415b83ce6b87db789476456c of change policy%2Fdocker~jakarta~I31ac4aa83d476dd677f611a0a0f368dbec4ac21f
+2023-01-15 17:16:40,101;Gerrit data export pipeline;INFO;Processed 314 of 500 changes
+2023-01-15 17:16:40,274;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I5e3194a87b6dbb0b5d64e536820693fcbfb4005e/revisions/9f2077fe9571c4705450a3633af55b7b5db09ecb/comments HTTP/1.1" 200 8
+2023-01-15 17:16:40,275;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:40,276;Gerrit data export pipeline;INFO;Processing revision 9f2077fe9571c4705450a3633af55b7b5db09ecb of change sdc~master~I5e3194a87b6dbb0b5d64e536820693fcbfb4005e
+2023-01-15 17:16:40,447;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I5e3194a87b6dbb0b5d64e536820693fcbfb4005e/revisions/64e74fe385d262fe91fe97828f9834f79a10dfd2/comments HTTP/1.1" 200 8
+2023-01-15 17:16:40,448;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:40,449;Gerrit data export pipeline;INFO;Processing revision 64e74fe385d262fe91fe97828f9834f79a10dfd2 of change sdc~master~I5e3194a87b6dbb0b5d64e536820693fcbfb4005e
+2023-01-15 17:16:40,450;Gerrit data export pipeline;INFO;Processed 315 of 500 changes
+2023-01-15 17:16:40,622;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdocker~istanbul~Ie5adb8cbf3f52187fbcf1fa13c2813033ed0ad6d/revisions/2f7c993bd650a98b8412b8de8713194591877458/comments HTTP/1.1" 200 8
+2023-01-15 17:16:40,623;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:40,624;Gerrit data export pipeline;INFO;Processing revision 2f7c993bd650a98b8412b8de8713194591877458 of change policy%2Fdocker~istanbul~Ie5adb8cbf3f52187fbcf1fa13c2813033ed0ad6d
+2023-01-15 17:16:40,625;Gerrit data export pipeline;INFO;Processed 316 of 500 changes
+2023-01-15 17:16:40,797;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fclamp~master~Ic7025e1eafdd197487bc5268993ec5e3e5520025/revisions/b5d62899bf9cfaef5c9dcc49023428bbb12bcc55/comments HTTP/1.1" 200 8
+2023-01-15 17:16:40,798;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:40,799;Gerrit data export pipeline;INFO;Processing revision b5d62899bf9cfaef5c9dcc49023428bbb12bcc55 of change policy%2Fclamp~master~Ic7025e1eafdd197487bc5268993ec5e3e5520025
+2023-01-15 17:16:40,800;Gerrit data export pipeline;INFO;Processed 317 of 500 changes
+2023-01-15 17:16:40,975;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdocker~master~Ic5b49f6e4b3ca1652cf33efc0adfab9d0c754821/revisions/6bbe852d7b7954297f0e326000e79cb723f6940c/comments HTTP/1.1" 200 8
+2023-01-15 17:16:40,976;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:40,976;Gerrit data export pipeline;INFO;Processing revision 6bbe852d7b7954297f0e326000e79cb723f6940c of change policy%2Fdocker~master~Ic5b49f6e4b3ca1652cf33efc0adfab9d0c754821
+2023-01-15 17:16:41,147;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdocker~master~Ic5b49f6e4b3ca1652cf33efc0adfab9d0c754821/revisions/644f900e413f536896c2800e6765c6d23effc335/comments HTTP/1.1" 200 8
+2023-01-15 17:16:41,149;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:41,150;Gerrit data export pipeline;INFO;Processing revision 644f900e413f536896c2800e6765c6d23effc335 of change policy%2Fdocker~master~Ic5b49f6e4b3ca1652cf33efc0adfab9d0c754821
+2023-01-15 17:16:41,319;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdocker~master~Ic5b49f6e4b3ca1652cf33efc0adfab9d0c754821/revisions/f1f2217a30aab4b871c874b875fb1b8df0977d25/comments HTTP/1.1" 200 8
+2023-01-15 17:16:41,320;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:41,321;Gerrit data export pipeline;INFO;Processing revision f1f2217a30aab4b871c874b875fb1b8df0977d25 of change policy%2Fdocker~master~Ic5b49f6e4b3ca1652cf33efc0adfab9d0c754821
+2023-01-15 17:16:41,321;Gerrit data export pipeline;INFO;Processed 318 of 500 changes
+2023-01-15 17:16:41,492;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fclamp~master~I4c6f49012d091b87f0da4db2edcd5f16af2f4d5c/revisions/92c372362b9c2dabc4bd0ff3eb6e65ad5659ffb4/comments HTTP/1.1" 200 8
+2023-01-15 17:16:41,493;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:41,494;Gerrit data export pipeline;INFO;Processing revision 92c372362b9c2dabc4bd0ff3eb6e65ad5659ffb4 of change policy%2Fclamp~master~I4c6f49012d091b87f0da4db2edcd5f16af2f4d5c
+2023-01-15 17:16:41,495;Gerrit data export pipeline;INFO;Processed 319 of 500 changes
+2023-01-15 17:16:41,684;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdocker~master~I56360db410cf3daa6ba5acae43fee9be580b6f88/revisions/be26be5ce95977ce1471bcdd10862619c953faf6/comments HTTP/1.1" 200 8
+2023-01-15 17:16:41,686;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:41,687;Gerrit data export pipeline;INFO;Processing revision be26be5ce95977ce1471bcdd10862619c953faf6 of change policy%2Fdocker~master~I56360db410cf3daa6ba5acae43fee9be580b6f88
+2023-01-15 17:16:41,688;Gerrit data export pipeline;INFO;Processed 320 of 500 changes
+2023-01-15 17:16:41,858;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdocker~kohn~I2d9fd5a10177c24274e8d49a89c3de1e850e6a81/revisions/26add9989a6959e5807210cfd520b0e681d54690/comments HTTP/1.1" 200 8
+2023-01-15 17:16:41,859;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:41,860;Gerrit data export pipeline;INFO;Processing revision 26add9989a6959e5807210cfd520b0e681d54690 of change policy%2Fdocker~kohn~I2d9fd5a10177c24274e8d49a89c3de1e850e6a81
+2023-01-15 17:16:41,860;Gerrit data export pipeline;INFO;Processed 321 of 500 changes
+2023-01-15 17:16:42,032;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/dmaap%2Fmessagerouter%2Fdmaapclient~master~I7d2b0a80c0cd76a1652b81008450628acf468839/revisions/9366906e17713b97bf26c6d920d3fb69342ef657/comments HTTP/1.1" 200 8
+2023-01-15 17:16:42,033;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:42,034;Gerrit data export pipeline;INFO;Processing revision 9366906e17713b97bf26c6d920d3fb69342ef657 of change dmaap%2Fmessagerouter%2Fdmaapclient~master~I7d2b0a80c0cd76a1652b81008450628acf468839
+2023-01-15 17:16:42,034;Gerrit data export pipeline;INFO;Processed 322 of 500 changes
+2023-01-15 17:16:42,204;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/dmaap%2Fmessagerouter%2Fdmaapclient~master~I9164a137efd206dc972e347241ac5c57dd6712a6/revisions/cd2ea8442c6991a360cb349433ca38e753fbdd4e/comments HTTP/1.1" 200 8
+2023-01-15 17:16:42,205;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:42,206;Gerrit data export pipeline;INFO;Processing revision cd2ea8442c6991a360cb349433ca38e753fbdd4e of change dmaap%2Fmessagerouter%2Fdmaapclient~master~I9164a137efd206dc972e347241ac5c57dd6712a6
+2023-01-15 17:16:42,206;Gerrit data export pipeline;INFO;Processed 323 of 500 changes
+2023-01-15 17:16:42,375;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ccsdk%2Ffeatures~kohn~Ib29bcdb008f42950554073d8046348a8d6016b26/revisions/02445e6398cf21dfb60f0309978e13cc29f6dd6d/comments HTTP/1.1" 200 8
+2023-01-15 17:16:42,376;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:42,377;Gerrit data export pipeline;INFO;Processing revision 02445e6398cf21dfb60f0309978e13cc29f6dd6d of change ccsdk%2Ffeatures~kohn~Ib29bcdb008f42950554073d8046348a8d6016b26
+2023-01-15 17:16:42,377;Gerrit data export pipeline;INFO;Processed 324 of 500 changes
+2023-01-15 17:16:42,547;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdrools-applications~istanbul~I4cff6f96c4f906f91709fae73da09fa47f6b37c8/revisions/176bdc95dbbccc0ff4551ee2955262c1c3abf7d6/comments HTTP/1.1" 200 8
+2023-01-15 17:16:42,548;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:42,549;Gerrit data export pipeline;INFO;Processing revision 176bdc95dbbccc0ff4551ee2955262c1c3abf7d6 of change policy%2Fdrools-applications~istanbul~I4cff6f96c4f906f91709fae73da09fa47f6b37c8
+2023-01-15 17:16:42,549;Gerrit data export pipeline;INFO;Processed 325 of 500 changes
+2023-01-15 17:16:42,719;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdrools-applications~jakarta~I8b12c197504308725daac7a19e855e01b53037fc/revisions/ea61dfdc72438b4513496a8ca5826bd6348e9248/comments HTTP/1.1" 200 8
+2023-01-15 17:16:42,720;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:42,720;Gerrit data export pipeline;INFO;Processing revision ea61dfdc72438b4513496a8ca5826bd6348e9248 of change policy%2Fdrools-applications~jakarta~I8b12c197504308725daac7a19e855e01b53037fc
+2023-01-15 17:16:42,721;Gerrit data export pipeline;INFO;Processed 326 of 500 changes
+2023-01-15 17:16:42,890;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdrools-applications~honolulu~I73ea46b016288ecae4ea4eb1b2349a64c3e56f63/revisions/aa9219df5b08b5ba837aa4596b503b440a144d85/comments HTTP/1.1" 200 8
+2023-01-15 17:16:42,891;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:42,892;Gerrit data export pipeline;INFO;Processing revision aa9219df5b08b5ba837aa4596b503b440a144d85 of change policy%2Fdrools-applications~honolulu~I73ea46b016288ecae4ea4eb1b2349a64c3e56f63
+2023-01-15 17:16:43,086;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdrools-applications~honolulu~I73ea46b016288ecae4ea4eb1b2349a64c3e56f63/revisions/85e231ba168f5e89290ea956411b907f3b52f3f8/comments HTTP/1.1" 200 8
+2023-01-15 17:16:43,087;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:43,088;Gerrit data export pipeline;INFO;Processing revision 85e231ba168f5e89290ea956411b907f3b52f3f8 of change policy%2Fdrools-applications~honolulu~I73ea46b016288ecae4ea4eb1b2349a64c3e56f63
+2023-01-15 17:16:43,089;Gerrit data export pipeline;INFO;Processed 327 of 500 changes
+2023-01-15 17:16:43,276;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ccsdk%2Foran~kohn~I6ec730d330c9bb0878f4ccb70a69696bc52db7eb/revisions/e774b9608cb82c6ad7a89542a559915468c58158/comments HTTP/1.1" 200 8
+2023-01-15 17:16:43,277;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:43,278;Gerrit data export pipeline;INFO;Processing revision e774b9608cb82c6ad7a89542a559915468c58158 of change ccsdk%2Foran~kohn~I6ec730d330c9bb0878f4ccb70a69696bc52db7eb
+2023-01-15 17:16:43,278;Gerrit data export pipeline;INFO;Processed 328 of 500 changes
+2023-01-15 17:16:43,448;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdrools-pdp~jakarta~I0faf8c995af363b4775e4605b60323a51cd645c5/revisions/347ac955027c9027e9f8c24f03e9ca2cdb4ef1b2/comments HTTP/1.1" 200 8
+2023-01-15 17:16:43,449;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:43,450;Gerrit data export pipeline;INFO;Processing revision 347ac955027c9027e9f8c24f03e9ca2cdb4ef1b2 of change policy%2Fdrools-pdp~jakarta~I0faf8c995af363b4775e4605b60323a51cd645c5
+2023-01-15 17:16:43,450;Gerrit data export pipeline;INFO;Processed 329 of 500 changes
+2023-01-15 17:16:43,626;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdrools-pdp~honolulu~Ib01c9c9f49b26eaad1b4acaf0103b9cad210b4e3/revisions/f90fcb9d7eab5316c7600663ff19e6f25014ba98/comments HTTP/1.1" 200 8
+2023-01-15 17:16:43,627;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:43,628;Gerrit data export pipeline;INFO;Processing revision f90fcb9d7eab5316c7600663ff19e6f25014ba98 of change policy%2Fdrools-pdp~honolulu~Ib01c9c9f49b26eaad1b4acaf0103b9cad210b4e3
+2023-01-15 17:16:43,628;Gerrit data export pipeline;INFO;Processed 330 of 500 changes
+2023-01-15 17:16:43,805;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdrools-pdp~istanbul~I23da395504c341fdac860726632188e3dd4b7116/revisions/067bef145823305ef895d70e23f74066934af1d0/comments HTTP/1.1" 200 8
+2023-01-15 17:16:43,806;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:43,806;Gerrit data export pipeline;INFO;Processing revision 067bef145823305ef895d70e23f74066934af1d0 of change policy%2Fdrools-pdp~istanbul~I23da395504c341fdac860726632188e3dd4b7116
+2023-01-15 17:16:43,807;Gerrit data export pipeline;INFO;Processed 331 of 500 changes
+2023-01-15 17:16:43,988;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fclamp~istanbul~I9c7aa72b9b8bd4e3e28b97cf4a9ac00dfa16b1cc/revisions/edb2c955aac71ad6de87e70383806b76b80c3b66/comments HTTP/1.1" 200 8
+2023-01-15 17:16:43,989;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:43,990;Gerrit data export pipeline;INFO;Processing revision edb2c955aac71ad6de87e70383806b76b80c3b66 of change policy%2Fclamp~istanbul~I9c7aa72b9b8bd4e3e28b97cf4a9ac00dfa16b1cc
+2023-01-15 17:16:43,990;Gerrit data export pipeline;INFO;Processed 332 of 500 changes
+2023-01-15 17:16:44,161;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdocker~istanbul~Ie318d5483a92c03d1ebaf73e98c1594efec2220e/revisions/3ac950d8c3ef110f7844064cb3105e3d3bf8a36a/comments HTTP/1.1" 200 8
+2023-01-15 17:16:44,162;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:44,163;Gerrit data export pipeline;INFO;Processing revision 3ac950d8c3ef110f7844064cb3105e3d3bf8a36a of change policy%2Fdocker~istanbul~Ie318d5483a92c03d1ebaf73e98c1594efec2220e
+2023-01-15 17:16:44,164;Gerrit data export pipeline;INFO;Processed 333 of 500 changes
+2023-01-15 17:16:44,335;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fparent~master~I861344865ce4f9aae4572690876ef7d9d7844916/revisions/b443104fc835cde86f4fbd88cd7f9521a31650e5/comments HTTP/1.1" 200 8
+2023-01-15 17:16:44,336;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:44,336;Gerrit data export pipeline;INFO;Processing revision b443104fc835cde86f4fbd88cd7f9521a31650e5 of change policy%2Fparent~master~I861344865ce4f9aae4572690876ef7d9d7844916
+2023-01-15 17:16:44,337;Gerrit data export pipeline;INFO;Processed 334 of 500 changes
+2023-01-15 17:16:44,507;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/ccsdk%2Fsli~kohn~Ic48638ee7a128d7c751a37233c18cf4baaf6909a/revisions/0529229a8078d357221f60df2d9ca964d45ceca8/comments HTTP/1.1" 200 8
+2023-01-15 17:16:44,508;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:44,509;Gerrit data export pipeline;INFO;Processing revision 0529229a8078d357221f60df2d9ca964d45ceca8 of change ccsdk%2Fsli~kohn~Ic48638ee7a128d7c751a37233c18cf4baaf6909a
+2023-01-15 17:16:44,510;Gerrit data export pipeline;INFO;Processed 335 of 500 changes
+2023-01-15 17:16:44,702;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fparent~master~I40ac2d58722fcbfa89123dad3d35d84d7b878685/revisions/49490a64a707c516e9a6f13d2031ae4cabd3011a/comments HTTP/1.1" 200 8
+2023-01-15 17:16:44,704;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:44,705;Gerrit data export pipeline;INFO;Processing revision 49490a64a707c516e9a6f13d2031ae4cabd3011a of change policy%2Fparent~master~I40ac2d58722fcbfa89123dad3d35d84d7b878685
+2023-01-15 17:16:44,706;Gerrit data export pipeline;INFO;Processed 336 of 500 changes
+2023-01-15 17:16:44,878;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~Ieaa49f9ac18b848bfd3996e9c6e08f9b4a32b999/revisions/2530b565fcf20dfe258b25ff053ec89f49a70c3f/comments HTTP/1.1" 200 8
+2023-01-15 17:16:44,880;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:44,881;Gerrit data export pipeline;INFO;Processing revision 2530b565fcf20dfe258b25ff053ec89f49a70c3f of change sdc~master~Ieaa49f9ac18b848bfd3996e9c6e08f9b4a32b999
+2023-01-15 17:16:45,059;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~Ieaa49f9ac18b848bfd3996e9c6e08f9b4a32b999/revisions/1b9e8d26edaf53877d9dbbe029e6c1d8cdcc2500/comments HTTP/1.1" 200 8
+2023-01-15 17:16:45,060;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:45,061;Gerrit data export pipeline;INFO;Processing revision 1b9e8d26edaf53877d9dbbe029e6c1d8cdcc2500 of change sdc~master~Ieaa49f9ac18b848bfd3996e9c6e08f9b4a32b999
+2023-01-15 17:16:45,231;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~Ieaa49f9ac18b848bfd3996e9c6e08f9b4a32b999/revisions/cd993c6cabd2dc7501a38081e0f957e58e6bd3fb/comments HTTP/1.1" 200 8
+2023-01-15 17:16:45,232;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:45,232;Gerrit data export pipeline;INFO;Processing revision cd993c6cabd2dc7501a38081e0f957e58e6bd3fb of change sdc~master~Ieaa49f9ac18b848bfd3996e9c6e08f9b4a32b999
+2023-01-15 17:16:45,402;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~Ieaa49f9ac18b848bfd3996e9c6e08f9b4a32b999/revisions/59f508d68b150c3b03844eb0ede9f8edf746e5b6/comments HTTP/1.1" 200 8
+2023-01-15 17:16:45,403;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:45,404;Gerrit data export pipeline;INFO;Processing revision 59f508d68b150c3b03844eb0ede9f8edf746e5b6 of change sdc~master~Ieaa49f9ac18b848bfd3996e9c6e08f9b4a32b999
+2023-01-15 17:16:45,574;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~Ieaa49f9ac18b848bfd3996e9c6e08f9b4a32b999/revisions/d32eff244d36e610e3501b8a7a02a3a369419ddd/comments HTTP/1.1" 200 8
+2023-01-15 17:16:45,575;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:45,576;Gerrit data export pipeline;INFO;Processing revision d32eff244d36e610e3501b8a7a02a3a369419ddd of change sdc~master~Ieaa49f9ac18b848bfd3996e9c6e08f9b4a32b999
+2023-01-15 17:16:45,745;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~Ieaa49f9ac18b848bfd3996e9c6e08f9b4a32b999/revisions/8dc65f554336541c0cd605e0fe6587dd2ca6bdd0/comments HTTP/1.1" 200 8
+2023-01-15 17:16:45,747;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:45,748;Gerrit data export pipeline;INFO;Processing revision 8dc65f554336541c0cd605e0fe6587dd2ca6bdd0 of change sdc~master~Ieaa49f9ac18b848bfd3996e9c6e08f9b4a32b999
+2023-01-15 17:16:45,749;Gerrit data export pipeline;INFO;Processed 337 of 500 changes
+2023-01-15 17:16:45,920;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc%2Fsdc-workflow-designer~master~I9d9515aa44c823404f05eefe668c222543693790/revisions/597cee12965358d4081450cfaeb8c8038d96f7c2/comments HTTP/1.1" 200 8
+2023-01-15 17:16:45,921;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:45,922;Gerrit data export pipeline;INFO;Processing revision 597cee12965358d4081450cfaeb8c8038d96f7c2 of change sdc%2Fsdc-workflow-designer~master~I9d9515aa44c823404f05eefe668c222543693790
+2023-01-15 17:16:45,923;Gerrit data export pipeline;INFO;Processed 338 of 500 changes
+2023-01-15 17:16:46,097;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92/revisions/fac9f2124f016dacd70a7a964f5cc3dcf1303d55/comments HTTP/1.1" 200 8
+2023-01-15 17:16:46,099;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:46,100;Gerrit data export pipeline;INFO;Processing revision fac9f2124f016dacd70a7a964f5cc3dcf1303d55 of change oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92
+2023-01-15 17:16:46,271;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92/revisions/0e30294c774d5b42a2622587eb7c7d8b24c69c39/comments HTTP/1.1" 200 8
+2023-01-15 17:16:46,273;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:46,274;Gerrit data export pipeline;INFO;Processing revision 0e30294c774d5b42a2622587eb7c7d8b24c69c39 of change oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92
+2023-01-15 17:16:46,443;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92/revisions/fe29dc8af946991850f1f17766943225c2c14983/comments HTTP/1.1" 200 8
+2023-01-15 17:16:46,444;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:46,445;Gerrit data export pipeline;INFO;Processing revision fe29dc8af946991850f1f17766943225c2c14983 of change oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92
+2023-01-15 17:16:46,615;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92/revisions/c51d22af2f18e6cdd0d96d6db9ea5a77f6119ba0/comments HTTP/1.1" 200 8
+2023-01-15 17:16:46,616;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:46,617;Gerrit data export pipeline;INFO;Processing revision c51d22af2f18e6cdd0d96d6db9ea5a77f6119ba0 of change oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92
+2023-01-15 17:16:46,788;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92/revisions/4364398afd51763012c95fc4053eb2e4e1c9905a/comments HTTP/1.1" 200 8
+2023-01-15 17:16:46,790;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:46,790;Gerrit data export pipeline;INFO;Processing revision 4364398afd51763012c95fc4053eb2e4e1c9905a of change oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92
+2023-01-15 17:16:46,962;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92/revisions/2750a2bf2e49dbf3b0b12ea8646445da8002a06e/comments HTTP/1.1" 200 8
+2023-01-15 17:16:46,965;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:46,966;Gerrit data export pipeline;INFO;Processing revision 2750a2bf2e49dbf3b0b12ea8646445da8002a06e of change oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92
+2023-01-15 17:16:47,140;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92/revisions/7e070719dae88a0b7ba93c11d29fe14d6402d95b/comments HTTP/1.1" 200 675
+2023-01-15 17:16:47,141;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:47,142;Gerrit data export pipeline;INFO;Processing revision 7e070719dae88a0b7ba93c11d29fe14d6402d95b of change oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92
+2023-01-15 17:16:47,143;Gerrit data export pipeline;INFO;Processing file kubernetes/cds/components/cds-sdc-listener/templates/deployment.yaml of revision 7e070719dae88a0b7ba93c11d29fe14d6402d95b of change oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92
+2023-01-15 17:16:47,323;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92/revisions/7e070719dae88a0b7ba93c11d29fe14d6402d95b/files/kubernetes%2Fcds%2Fcomponents%2Fcds-sdc-listener%2Ftemplates%2Fdeployment.yaml/content HTTP/1.1" 200 4683
+2023-01-15 17:16:47,324;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:47,498;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92/revisions/7e070719dae88a0b7ba93c11d29fe14d6402d95b/files/kubernetes%2Fcds%2Fcomponents%2Fcds-sdc-listener%2Ftemplates%2Fdeployment.yaml/content HTTP/1.1" 200 4683
+2023-01-15 17:16:47,500;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:47,671;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92/revisions/211f907cd523872e1f0d8fc3633e3a90b5c0bd69/comments HTTP/1.1" 200 8
+2023-01-15 17:16:47,673;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:47,674;Gerrit data export pipeline;INFO;Processing revision 211f907cd523872e1f0d8fc3633e3a90b5c0bd69 of change oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92
+2023-01-15 17:16:47,845;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92/revisions/8b176a66ce213021f0336f5fecb10e3f12c19845/comments HTTP/1.1" 200 8
+2023-01-15 17:16:47,847;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:47,848;Gerrit data export pipeline;INFO;Processing revision 8b176a66ce213021f0336f5fecb10e3f12c19845 of change oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92
+2023-01-15 17:16:48,017;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92/revisions/dd4398c6e3a76a23ce52f31689e6dafde4cad4e9/comments HTTP/1.1" 200 8
+2023-01-15 17:16:48,018;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:48,018;Gerrit data export pipeline;INFO;Processing revision dd4398c6e3a76a23ce52f31689e6dafde4cad4e9 of change oom~master~If2116a7bf0618c0c2bc42473dccb248cd11ebf92
+2023-01-15 17:16:48,019;Gerrit data export pipeline;INFO;Processed 339 of 500 changes
+2023-01-15 17:16:48,189;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/vfc%2Fnfvo%2Flcm~master~Ie59f564b6456e7938eed1ef4a14f856645cb6988/revisions/fbece5930eebe53f88b1c2a657cc9871490f8ca6/comments HTTP/1.1" 200 8
+2023-01-15 17:16:48,190;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:48,190;Gerrit data export pipeline;INFO;Processing revision fbece5930eebe53f88b1c2a657cc9871490f8ca6 of change vfc%2Fnfvo%2Flcm~master~Ie59f564b6456e7938eed1ef4a14f856645cb6988
+2023-01-15 17:16:48,191;Gerrit data export pipeline;INFO;Processed 340 of 500 changes
+2023-01-15 17:16:48,361;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/multicloud%2Fframework~master~Ia43c5e710bac029d3034685d8062770758f8ec34/revisions/e656ed0f0594af51d1689f0f9bae29b5710aece3/comments HTTP/1.1" 200 8
+2023-01-15 17:16:48,362;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:48,363;Gerrit data export pipeline;INFO;Processing revision e656ed0f0594af51d1689f0f9bae29b5710aece3 of change multicloud%2Fframework~master~Ia43c5e710bac029d3034685d8062770758f8ec34
+2023-01-15 17:16:48,364;Gerrit data export pipeline;INFO;Processed 341 of 500 changes
+2023-01-15 17:16:48,533;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc%2Fsdc-tosca~master~I005c1e2bd4a064118c652eff77fbe2e737995270/revisions/481d501a5a832a66b938946fbda65c879ea9d872/comments HTTP/1.1" 200 8
+2023-01-15 17:16:48,534;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:48,535;Gerrit data export pipeline;INFO;Processing revision 481d501a5a832a66b938946fbda65c879ea9d872 of change sdc%2Fsdc-tosca~master~I005c1e2bd4a064118c652eff77fbe2e737995270
+2023-01-15 17:16:48,535;Gerrit data export pipeline;INFO;Processed 342 of 500 changes
+2023-01-15 17:16:48,728;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fdocker~kohn~If68fee8d39249d4f855fa4a57174ff91f5e5cae5/revisions/60fbd536f8205f7c2764069839c39c208a58eb4c/comments HTTP/1.1" 200 8
+2023-01-15 17:16:48,729;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:48,730;Gerrit data export pipeline;INFO;Processing revision 60fbd536f8205f7c2764069839c39c208a58eb4c of change policy%2Fdocker~kohn~If68fee8d39249d4f855fa4a57174ff91f5e5cae5
+2023-01-15 17:16:48,731;Gerrit data export pipeline;INFO;Processed 343 of 500 changes
+2023-01-15 17:16:48,900;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fgui~jakarta~Ifa9ecdb0470434067a487d437ee7d4940e62ab26/revisions/a03e32ec26e647da25431e9c5331f845db7ab868/comments HTTP/1.1" 200 8
+2023-01-15 17:16:48,901;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:48,902;Gerrit data export pipeline;INFO;Processing revision a03e32ec26e647da25431e9c5331f845db7ab868 of change policy%2Fgui~jakarta~Ifa9ecdb0470434067a487d437ee7d4940e62ab26
+2023-01-15 17:16:48,903;Gerrit data export pipeline;INFO;Processed 344 of 500 changes
+2023-01-15 17:16:49,073;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/policy%2Fapex-pdp~jakarta~I788840473f4bd21de398f64385e0e5b08bd5ea7c/revisions/0bb1aca133327457443cd94871f13ad88fd0fd00/comments HTTP/1.1" 200 8
+2023-01-15 17:16:49,074;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:49,074;Gerrit data export pipeline;INFO;Processing revision 0bb1aca133327457443cd94871f13ad88fd0fd00 of change policy%2Fapex-pdp~jakarta~I788840473f4bd21de398f64385e0e5b08bd5ea7c
+2023-01-15 17:16:49,075;Gerrit data export pipeline;INFO;Processed 345 of 500 changes
+2023-01-15 17:16:49,245;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/oom~kohn~I480f8c7b6b9ca3a84813a9e96c4d796d332facc7/revisions/f925f889aabf7cf929fd4b2d0e9530e0b29e0b5f/comments HTTP/1.1" 200 8
+2023-01-15 17:16:49,246;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:49,246;Gerrit data export pipeline;INFO;Processing revision f925f889aabf7cf929fd4b2d0e9530e0b29e0b5f of change oom~kohn~I480f8c7b6b9ca3a84813a9e96c4d796d332facc7
+2023-01-15 17:16:49,247;Gerrit data export pipeline;INFO;Processed 346 of 500 changes
+2023-01-15 17:16:49,416;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~Ia364144ef803dea1f3a203e30639144809ec61e1/revisions/0db116ae2a62073551b09dd6c7b7c915fd1a5eb1/comments HTTP/1.1" 200 8
+2023-01-15 17:16:49,417;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:49,417;Gerrit data export pipeline;INFO;Processing revision 0db116ae2a62073551b09dd6c7b7c915fd1a5eb1 of change sdc~master~Ia364144ef803dea1f3a203e30639144809ec61e1
+2023-01-15 17:16:49,586;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~Ia364144ef803dea1f3a203e30639144809ec61e1/revisions/9da9c6f383c761ce6bc2c1b3152ece499a847007/comments HTTP/1.1" 200 8
+2023-01-15 17:16:49,587;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:49,587;Gerrit data export pipeline;INFO;Processing revision 9da9c6f383c761ce6bc2c1b3152ece499a847007 of change sdc~master~Ia364144ef803dea1f3a203e30639144809ec61e1
+2023-01-15 17:16:49,588;Gerrit data export pipeline;INFO;Processed 347 of 500 changes
+2023-01-15 17:16:49,760;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/3f71f4334ddeffeb4acf029700d0f92e9a8fdb4a/comments HTTP/1.1" 200 8
+2023-01-15 17:16:49,761;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:49,761;Gerrit data export pipeline;INFO;Processing revision 3f71f4334ddeffeb4acf029700d0f92e9a8fdb4a of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:49,930;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/67d0a15643491dc2d3a577b55c81c8dcaa62b06e/comments HTTP/1.1" 200 8
+2023-01-15 17:16:49,932;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:49,933;Gerrit data export pipeline;INFO;Processing revision 67d0a15643491dc2d3a577b55c81c8dcaa62b06e of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:50,102;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/6b885c651d576b0eb3c2124a2f260c66eacd860a/comments HTTP/1.1" 200 3507
+2023-01-15 17:16:50,103;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:50,104;Gerrit data export pipeline;INFO;Processing revision 6b885c651d576b0eb3c2124a2f260c66eacd860a of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:50,104;Gerrit data export pipeline;INFO;Processing file catalog-model/src/test/java/org/openecomp/sdc/be/model/tosca/constraints/GreaterThanConstraintTest.java of revision 6b885c651d576b0eb3c2124a2f260c66eacd860a of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:50,274;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/6b885c651d576b0eb3c2124a2f260c66eacd860a/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FGreaterThanConstraintTest.java/content HTTP/1.1" 200 3243
+2023-01-15 17:16:50,275;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:50,444;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/6b885c651d576b0eb3c2124a2f260c66eacd860a/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FGreaterThanConstraintTest.java/content HTTP/1.1" 200 3243
+2023-01-15 17:16:50,445;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:50,446;Gerrit data export pipeline;INFO;Processing file catalog-model/src/test/java/org/openecomp/sdc/be/model/tosca/constraints/InRangeConstraintTest.java of revision 6b885c651d576b0eb3c2124a2f260c66eacd860a of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:50,617;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/6b885c651d576b0eb3c2124a2f260c66eacd860a/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FInRangeConstraintTest.java/content HTTP/1.1" 200 3763
+2023-01-15 17:16:50,618;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:50,789;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/6b885c651d576b0eb3c2124a2f260c66eacd860a/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FInRangeConstraintTest.java/content HTTP/1.1" 200 3763
+2023-01-15 17:16:50,790;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:50,791;Gerrit data export pipeline;INFO;Processing file catalog-model/src/test/java/org/openecomp/sdc/be/model/tosca/constraints/LessOrEqualConstraintTest.java of revision 6b885c651d576b0eb3c2124a2f260c66eacd860a of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:50,963;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/6b885c651d576b0eb3c2124a2f260c66eacd860a/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FLessOrEqualConstraintTest.java/content HTTP/1.1" 200 3243
+2023-01-15 17:16:50,965;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:51,142;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/6b885c651d576b0eb3c2124a2f260c66eacd860a/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FLessOrEqualConstraintTest.java/content HTTP/1.1" 200 3243
+2023-01-15 17:16:51,143;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:51,143;Gerrit data export pipeline;INFO;Processing file catalog-model/src/test/java/org/openecomp/sdc/be/model/tosca/constraints/ValidValuesConstraintTest.java of revision 6b885c651d576b0eb3c2124a2f260c66eacd860a of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:51,327;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/6b885c651d576b0eb3c2124a2f260c66eacd860a/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FValidValuesConstraintTest.java/content HTTP/1.1" 200 3301
+2023-01-15 17:16:51,328;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:51,509;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/6b885c651d576b0eb3c2124a2f260c66eacd860a/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FValidValuesConstraintTest.java/content HTTP/1.1" 200 3301
+2023-01-15 17:16:51,510;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:51,680;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/comments HTTP/1.1" 200 8722
+2023-01-15 17:16:51,681;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:51,682;Gerrit data export pipeline;INFO;Processing revision 9692215b87dd37f90e0dc5063de7254b1c8a1290 of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:51,682;Gerrit data export pipeline;INFO;Processing file catalog-model/src/main/java/org/openecomp/sdc/be/model/tosca/constraints/AbstractComparablePropertyConstraint.java of revision 9692215b87dd37f90e0dc5063de7254b1c8a1290 of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:51,853;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Fmain%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FAbstractComparablePropertyConstraint.java/content HTTP/1.1" 200 5057
+2023-01-15 17:16:51,854;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:52,025;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Fmain%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FAbstractComparablePropertyConstraint.java/content HTTP/1.1" 200 5057
+2023-01-15 17:16:52,026;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:52,027;Gerrit data export pipeline;INFO;Processing file catalog-model/src/main/java/org/openecomp/sdc/be/model/tosca/constraints/InRangeConstraint.java of revision 9692215b87dd37f90e0dc5063de7254b1c8a1290 of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:52,197;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Fmain%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FInRangeConstraint.java/content HTTP/1.1" 200 8698
+2023-01-15 17:16:52,198;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:52,368;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Fmain%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FInRangeConstraint.java/content HTTP/1.1" 200 8698
+2023-01-15 17:16:52,370;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:52,371;Gerrit data export pipeline;INFO;Processing file catalog-model/src/main/java/org/openecomp/sdc/be/model/tosca/constraints/ValidValuesConstraint.java of revision 9692215b87dd37f90e0dc5063de7254b1c8a1290 of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:52,548;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Fmain%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FValidValuesConstraint.java/content HTTP/1.1" 200 8979
+2023-01-15 17:16:52,549;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:52,737;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Fmain%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FValidValuesConstraint.java/content HTTP/1.1" 200 8979
+2023-01-15 17:16:52,738;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:52,739;Gerrit data export pipeline;INFO;Processing file catalog-model/src/test/java/org/openecomp/sdc/be/model/tosca/constraints/EqualConstraintTest.java of revision 9692215b87dd37f90e0dc5063de7254b1c8a1290 of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:52,937;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FEqualConstraintTest.java/content HTTP/1.1" 200 5855
+2023-01-15 17:16:52,938;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:53,497;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FEqualConstraintTest.java/content HTTP/1.1" 200 5855
+2023-01-15 17:16:53,498;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:53,499;Gerrit data export pipeline;INFO;Processing file catalog-model/src/test/java/org/openecomp/sdc/be/model/tosca/constraints/GreaterOrEqualConstraintTest.java of revision 9692215b87dd37f90e0dc5063de7254b1c8a1290 of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:53,670;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FGreaterOrEqualConstraintTest.java/content HTTP/1.1" 200 5854
+2023-01-15 17:16:53,671;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:53,849;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FGreaterOrEqualConstraintTest.java/content HTTP/1.1" 200 5854
+2023-01-15 17:16:53,851;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:54,022;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FGreaterOrEqualConstraintTest.java/content HTTP/1.1" 200 5854
+2023-01-15 17:16:54,023;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:54,194;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FGreaterOrEqualConstraintTest.java/content HTTP/1.1" 200 5854
+2023-01-15 17:16:54,195;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:54,196;Gerrit data export pipeline;INFO;Processing file catalog-model/src/test/java/org/openecomp/sdc/be/model/tosca/constraints/GreaterThanConstraintTest.java of revision 9692215b87dd37f90e0dc5063de7254b1c8a1290 of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:54,368;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FGreaterThanConstraintTest.java/content HTTP/1.1" 200 5981
+2023-01-15 17:16:54,370;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:54,543;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FGreaterThanConstraintTest.java/content HTTP/1.1" 200 5981
+2023-01-15 17:16:54,546;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:54,548;Gerrit data export pipeline;INFO;Processing file catalog-model/src/test/java/org/openecomp/sdc/be/model/tosca/constraints/InRangeConstraintTest.java of revision 9692215b87dd37f90e0dc5063de7254b1c8a1290 of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:54,723;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FInRangeConstraintTest.java/content HTTP/1.1" 200 7656
+2023-01-15 17:16:54,725;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:54,899;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FInRangeConstraintTest.java/content HTTP/1.1" 200 7656
+2023-01-15 17:16:54,900;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:54,901;Gerrit data export pipeline;INFO;Processing file catalog-model/src/test/java/org/openecomp/sdc/be/model/tosca/constraints/LessOrEqualConstraintTest.java of revision 9692215b87dd37f90e0dc5063de7254b1c8a1290 of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:55,072;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FLessOrEqualConstraintTest.java/content HTTP/1.1" 200 5985
+2023-01-15 17:16:55,073;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:55,243;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FLessOrEqualConstraintTest.java/content HTTP/1.1" 200 5985
+2023-01-15 17:16:55,244;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:55,245;Gerrit data export pipeline;INFO;Processing file catalog-model/src/test/java/org/openecomp/sdc/be/model/tosca/constraints/LessThanConstraintTest.java of revision 9692215b87dd37f90e0dc5063de7254b1c8a1290 of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:55,415;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FLessThanConstraintTest.java/content HTTP/1.1" 200 5724
+2023-01-15 17:16:55,416;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:55,587;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FLessThanConstraintTest.java/content HTTP/1.1" 200 5724
+2023-01-15 17:16:55,588;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:55,760;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FLessThanConstraintTest.java/content HTTP/1.1" 200 5724
+2023-01-15 17:16:55,761;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:55,933;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FLessThanConstraintTest.java/content HTTP/1.1" 200 5724
+2023-01-15 17:16:55,934;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:55,934;Gerrit data export pipeline;INFO;Processing file catalog-model/src/test/java/org/openecomp/sdc/be/model/tosca/constraints/ValidValuesConstraintTest.java of revision 9692215b87dd37f90e0dc5063de7254b1c8a1290 of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:56,104;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FValidValuesConstraintTest.java/content HTTP/1.1" 200 6896
+2023-01-15 17:16:56,105;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:56,276;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9692215b87dd37f90e0dc5063de7254b1c8a1290/files/catalog-model%2Fsrc%2Ftest%2Fjava%2Forg%2Fopenecomp%2Fsdc%2Fbe%2Fmodel%2Ftosca%2Fconstraints%2FValidValuesConstraintTest.java/content HTTP/1.1" 200 6896
+2023-01-15 17:16:56,277;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:56,451;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/9996cf8eea0ce9ae28f2277582fb9d907a8e47c1/comments HTTP/1.1" 200 8
+2023-01-15 17:16:56,452;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:56,453;Gerrit data export pipeline;INFO;Processing revision 9996cf8eea0ce9ae28f2277582fb9d907a8e47c1 of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:56,628;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/2e5bfda1dacc56309b656be43439f0fb65d953b3/comments HTTP/1.1" 200 8
+2023-01-15 17:16:56,630;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:56,631;Gerrit data export pipeline;INFO;Processing revision 2e5bfda1dacc56309b656be43439f0fb65d953b3 of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:56,801;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c/revisions/be7ba43b95f13bb390cdd77a15c35072781e5546/comments HTTP/1.1" 200 8
+2023-01-15 17:16:56,802;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:56,803;Gerrit data export pipeline;INFO;Processing revision be7ba43b95f13bb390cdd77a15c35072781e5546 of change sdc~master~I32c1d930166d10142ad9ca6914550c7946e9128c
+2023-01-15 17:16:56,803;Gerrit data export pipeline;INFO;Processed 348 of 500 changes
+2023-01-15 17:16:56,979;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/37d72855721caa646144ad323fe51ae78af15507/comments HTTP/1.1" 200 8
+2023-01-15 17:16:56,980;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:56,981;Gerrit data export pipeline;INFO;Processing revision 37d72855721caa646144ad323fe51ae78af15507 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:16:57,150;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/3a1b697f331bb10e87e7c2332373b879bfcb773c/comments HTTP/1.1" 200 2433
+2023-01-15 17:16:57,151;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:57,151;Gerrit data export pipeline;INFO;Processing revision 3a1b697f331bb10e87e7c2332373b879bfcb773c of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:16:57,152;Gerrit data export pipeline;INFO;Processing file cps-ncmp-rest/src/main/java/org/onap/cps/ncmp/rest/controller/NetworkCmProxyInventoryController.java of revision 3a1b697f331bb10e87e7c2332373b879bfcb773c of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:16:57,321;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/3a1b697f331bb10e87e7c2332373b879bfcb773c/files/cps-ncmp-rest%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Fncmp%2Frest%2Fcontroller%2FNetworkCmProxyInventoryController.java/content HTTP/1.1" 200 7795
+2023-01-15 17:16:57,322;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:57,323;Gerrit data export pipeline;INFO;Processing file cps-ncmp-rest/src/test/groovy/org/onap/cps/ncmp/rest/controller/NetworkCmProxyInventoryControllerSpec.groovy of revision 3a1b697f331bb10e87e7c2332373b879bfcb773c of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:16:57,326;Gerrit data export pipeline;INFO;Processing file cps-ncmp-service/src/main/java/org/onap/cps/ncmp/api/impl/NetworkCmProxyCmHandlerQueryServiceImpl.java of revision 3a1b697f331bb10e87e7c2332373b879bfcb773c of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:16:57,497;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/3a1b697f331bb10e87e7c2332373b879bfcb773c/files/cps-ncmp-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2FNetworkCmProxyCmHandlerQueryServiceImpl.java/content HTTP/1.1" 200 17461
+2023-01-15 17:16:57,498;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:57,499;Gerrit data export pipeline;INFO;Processing file cps-ncmp-service/src/main/java/org/onap/cps/ncmp/api/impl/utils/CmHandleQueryConditions.java of revision 3a1b697f331bb10e87e7c2332373b879bfcb773c of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:16:57,668;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/3a1b697f331bb10e87e7c2332373b879bfcb773c/files/cps-ncmp-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2Futils%2FCmHandleQueryConditions.java/content HTTP/1.1" 200 2739
+2023-01-15 17:16:57,669;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:57,670;Gerrit data export pipeline;INFO;Processing file cps-ncmp-service/src/test/groovy/org/onap/cps/ncmp/api/impl/NetworkCmProxyCmHandlerQueryServiceSpec.groovy of revision 3a1b697f331bb10e87e7c2332373b879bfcb773c of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:16:57,670;Gerrit data export pipeline;INFO;Processing file cps-ncmp-service/src/test/groovy/org/onap/cps/ncmp/api/impl/NetworkCmProxyDataServiceImplSpec.groovy of revision 3a1b697f331bb10e87e7c2332373b879bfcb773c of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:16:57,840;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/8eca6c8f6ddd87c70872f0a9fb106620f29721ec/comments HTTP/1.1" 200 8
+2023-01-15 17:16:57,841;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:57,842;Gerrit data export pipeline;INFO;Processing revision 8eca6c8f6ddd87c70872f0a9fb106620f29721ec of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:16:58,010;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/b44d4a38484e7fbaea7a5a2fa39c85f291286ed7/comments HTTP/1.1" 200 8
+2023-01-15 17:16:58,011;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:58,011;Gerrit data export pipeline;INFO;Processing revision b44d4a38484e7fbaea7a5a2fa39c85f291286ed7 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:16:58,182;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/ff16e84124f4b9f259108e08628b229784adffc9/comments HTTP/1.1" 200 5955
+2023-01-15 17:16:58,183;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:58,184;Gerrit data export pipeline;INFO;Processing revision ff16e84124f4b9f259108e08628b229784adffc9 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:16:58,184;Gerrit data export pipeline;INFO;Processing file cps-ncmp-service/src/test/groovy/org/onap/cps/ncmp/api/impl/NetworkCmProxyCmHandlerQueryServiceSpec.groovy of revision ff16e84124f4b9f259108e08628b229784adffc9 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:16:58,354;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/ff16e84124f4b9f259108e08628b229784adffc9/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2FNetworkCmProxyCmHandlerQueryServiceSpec.groovy/content HTTP/1.1" 200 21002
+2023-01-15 17:16:58,355;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:58,525;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/ff16e84124f4b9f259108e08628b229784adffc9/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2FNetworkCmProxyCmHandlerQueryServiceSpec.groovy/content HTTP/1.1" 200 21002
+2023-01-15 17:16:58,526;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:58,526;Gerrit data export pipeline;INFO;Processing file cps-ncmp-service/src/test/groovy/org/onap/cps/ncmp/api/impl/NetworkCmProxyDataServiceImplSpec.groovy of revision ff16e84124f4b9f259108e08628b229784adffc9 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:16:58,698;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/ff16e84124f4b9f259108e08628b229784adffc9/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2FNetworkCmProxyDataServiceImplSpec.groovy/content HTTP/1.1" 200 26421
+2023-01-15 17:16:58,699;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:58,874;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/ff16e84124f4b9f259108e08628b229784adffc9/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2FNetworkCmProxyDataServiceImplSpec.groovy/content HTTP/1.1" 200 26421
+2023-01-15 17:16:58,875;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:58,876;Gerrit data export pipeline;INFO;Processing file cps-ncmp-service/src/test/groovy/org/onap/cps/ncmp/api/impl/utils/CmHandleQueryConditionsSpec.groovy of revision ff16e84124f4b9f259108e08628b229784adffc9 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:16:59,045;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/ff16e84124f4b9f259108e08628b229784adffc9/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2Futils%2FCmHandleQueryConditionsSpec.groovy/content HTTP/1.1" 200 2710
+2023-01-15 17:16:59,046;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:59,216;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/ff16e84124f4b9f259108e08628b229784adffc9/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2Futils%2FCmHandleQueryConditionsSpec.groovy/content HTTP/1.1" 200 2710
+2023-01-15 17:16:59,218;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:59,218;Gerrit data export pipeline;INFO;Processing file cps-ncmp-service/src/test/groovy/org/onap/cps/ncmp/api/impl/utils/InventoryQueryConditionsSpec.groovy of revision ff16e84124f4b9f259108e08628b229784adffc9 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:16:59,388;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/ff16e84124f4b9f259108e08628b229784adffc9/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2Futils%2FInventoryQueryConditionsSpec.groovy/content HTTP/1.1" 200 2733
+2023-01-15 17:16:59,389;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:59,559;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/ff16e84124f4b9f259108e08628b229784adffc9/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2Futils%2FInventoryQueryConditionsSpec.groovy/content HTTP/1.1" 200 2733
+2023-01-15 17:16:59,560;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:59,561;Gerrit data export pipeline;INFO;Processing file cps-ncmp-service/src/test/groovy/org/onap/cps/ncmp/api/impl/utils/RestQueryParametersValidatorSpec.groovy of revision ff16e84124f4b9f259108e08628b229784adffc9 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:16:59,732;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/ff16e84124f4b9f259108e08628b229784adffc9/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2Futils%2FRestQueryParametersValidatorSpec.groovy/content HTTP/1.1" 200 9126
+2023-01-15 17:16:59,733;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:16:59,905;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/ff16e84124f4b9f259108e08628b229784adffc9/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2Futils%2FRestQueryParametersValidatorSpec.groovy/content HTTP/1.1" 200 9126
+2023-01-15 17:16:59,906;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:00,084;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/ff16e84124f4b9f259108e08628b229784adffc9/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2Futils%2FRestQueryParametersValidatorSpec.groovy/content HTTP/1.1" 200 9126
+2023-01-15 17:17:00,085;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:00,325;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/ff16e84124f4b9f259108e08628b229784adffc9/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2Futils%2FRestQueryParametersValidatorSpec.groovy/content HTTP/1.1" 200 9126
+2023-01-15 17:17:00,326;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:00,327;Gerrit data export pipeline;INFO;Processing file docs/release-notes.rst of revision ff16e84124f4b9f259108e08628b229784adffc9 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:17:00,533;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/ff16e84124f4b9f259108e08628b229784adffc9/files/docs%2Frelease-notes.rst/content HTTP/1.1" 200 47120
+2023-01-15 17:17:00,534;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:00,832;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/ff16e84124f4b9f259108e08628b229784adffc9/files/docs%2Frelease-notes.rst/content HTTP/1.1" 200 47120
+2023-01-15 17:17:00,833;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:01,005;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/ff16e84124f4b9f259108e08628b229784adffc9/files/docs%2Frelease-notes.rst/content HTTP/1.1" 200 47120
+2023-01-15 17:17:01,007;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:01,179;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/ff16e84124f4b9f259108e08628b229784adffc9/files/docs%2Frelease-notes.rst/content HTTP/1.1" 200 47120
+2023-01-15 17:17:01,180;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:01,351;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/cd9d2246294052c3409763fa9e6c147521bbfe28/comments HTTP/1.1" 200 1379
+2023-01-15 17:17:01,352;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:01,353;Gerrit data export pipeline;INFO;Processing revision cd9d2246294052c3409763fa9e6c147521bbfe28 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:17:01,353;Gerrit data export pipeline;INFO;Processing file docs/release-notes.rst of revision cd9d2246294052c3409763fa9e6c147521bbfe28 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:17:01,527;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/cd9d2246294052c3409763fa9e6c147521bbfe28/files/docs%2Frelease-notes.rst/content HTTP/1.1" 200 48808
+2023-01-15 17:17:01,528;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:01,701;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/cd9d2246294052c3409763fa9e6c147521bbfe28/files/docs%2Frelease-notes.rst/content HTTP/1.1" 200 48808
+2023-01-15 17:17:01,702;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:01,878;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/cd9d2246294052c3409763fa9e6c147521bbfe28/files/docs%2Frelease-notes.rst/content HTTP/1.1" 200 48808
+2023-01-15 17:17:01,880;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:02,052;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/cd9d2246294052c3409763fa9e6c147521bbfe28/files/docs%2Frelease-notes.rst/content HTTP/1.1" 200 48808
+2023-01-15 17:17:02,054;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:02,225;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/980eca79620b78ee0db7b7d021a3b75a665cba38/comments HTTP/1.1" 200 2524
+2023-01-15 17:17:02,226;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:02,227;Gerrit data export pipeline;INFO;Processing revision 980eca79620b78ee0db7b7d021a3b75a665cba38 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:17:02,227;Gerrit data export pipeline;INFO;Processing file cps-ncmp-service/src/test/groovy/org/onap/cps/ncmp/api/impl/NetworkCmProxyCmHandlerQueryServiceSpec.groovy of revision 980eca79620b78ee0db7b7d021a3b75a665cba38 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:17:02,402;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/980eca79620b78ee0db7b7d021a3b75a665cba38/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2FNetworkCmProxyCmHandlerQueryServiceSpec.groovy/content HTTP/1.1" 200 20783
+2023-01-15 17:17:02,403;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:02,404;Gerrit data export pipeline;INFO;Processing file cps-ncmp-service/src/test/groovy/org/onap/cps/ncmp/api/impl/NetworkCmProxyDataServiceImplSpec.groovy of revision 980eca79620b78ee0db7b7d021a3b75a665cba38 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:17:02,578;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/980eca79620b78ee0db7b7d021a3b75a665cba38/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2FNetworkCmProxyDataServiceImplSpec.groovy/content HTTP/1.1" 200 26900
+2023-01-15 17:17:02,579;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:02,580;Gerrit data export pipeline;INFO;Processing file cps-ncmp-service/src/test/groovy/org/onap/cps/ncmp/api/inventory/CmHandleQueriesImplSpec.groovy of revision 980eca79620b78ee0db7b7d021a3b75a665cba38 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:17:02,763;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/980eca79620b78ee0db7b7d021a3b75a665cba38/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Finventory%2FCmHandleQueriesImplSpec.groovy/content HTTP/1.1" 200 17131
+2023-01-15 17:17:02,764;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:02,934;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/980eca79620b78ee0db7b7d021a3b75a665cba38/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Finventory%2FCmHandleQueriesImplSpec.groovy/content HTTP/1.1" 200 17131
+2023-01-15 17:17:02,935;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:02,935;Gerrit data export pipeline;INFO;Processing file cps-service/src/main/java/org/onap/cps/utils/CmHandleQueryRestParametersValidator.java of revision 980eca79620b78ee0db7b7d021a3b75a665cba38 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:17:03,128;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/980eca79620b78ee0db7b7d021a3b75a665cba38/files/cps-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Futils%2FCmHandleQueryRestParametersValidator.java/content HTTP/1.1" 200 8001
+2023-01-15 17:17:03,129;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:03,130;Gerrit data export pipeline;INFO;Processing file cps-service/src/test/groovy/org/onap/cps/utils/CmHandleQueryRestParametersValidatorSpec.groovy of revision 980eca79620b78ee0db7b7d021a3b75a665cba38 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:17:03,302;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/980eca79620b78ee0db7b7d021a3b75a665cba38/files/cps-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Futils%2FCmHandleQueryRestParametersValidatorSpec.groovy/content HTTP/1.1" 200 11047
+2023-01-15 17:17:03,303;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:03,474;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/3abed0dd017f34b8659980e9521474a6b9ee219a/comments HTTP/1.1" 200 3725
+2023-01-15 17:17:03,475;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:03,476;Gerrit data export pipeline;INFO;Processing revision 3abed0dd017f34b8659980e9521474a6b9ee219a of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:17:03,476;Gerrit data export pipeline;INFO;Processing file cps-ncmp-service/src/main/java/org/onap/cps/ncmp/api/impl/utils/InventoryQueryConditions.java of revision 3abed0dd017f34b8659980e9521474a6b9ee219a of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:17:03,646;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/3abed0dd017f34b8659980e9521474a6b9ee219a/files/cps-ncmp-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2Futils%2FInventoryQueryConditions.java/content HTTP/1.1" 200 2707
+2023-01-15 17:17:03,647;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:03,817;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/3abed0dd017f34b8659980e9521474a6b9ee219a/files/cps-ncmp-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2Futils%2FInventoryQueryConditions.java/content HTTP/1.1" 200 2707
+2023-01-15 17:17:03,818;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:03,996;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/3abed0dd017f34b8659980e9521474a6b9ee219a/files/cps-ncmp-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2Futils%2FInventoryQueryConditions.java/content HTTP/1.1" 200 2707
+2023-01-15 17:17:03,997;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:03,998;Gerrit data export pipeline;INFO;Processing file cps-ncmp-service/src/main/java/org/onap/cps/ncmp/api/inventory/enums/PropertyType.java of revision 3abed0dd017f34b8659980e9521474a6b9ee219a of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:17:04,168;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/3abed0dd017f34b8659980e9521474a6b9ee219a/files/cps-ncmp-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Finventory%2Fenums%2FPropertyType.java/content HTTP/1.1" 200 2359
+2023-01-15 17:17:04,169;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:04,339;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/3abed0dd017f34b8659980e9521474a6b9ee219a/files/cps-ncmp-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Finventory%2Fenums%2FPropertyType.java/content HTTP/1.1" 200 2359
+2023-01-15 17:17:04,340;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:04,509;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/3abed0dd017f34b8659980e9521474a6b9ee219a/files/cps-ncmp-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Finventory%2Fenums%2FPropertyType.java/content HTTP/1.1" 200 2359
+2023-01-15 17:17:04,510;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:04,511;Gerrit data export pipeline;INFO;Processing file cps-ncmp-service/src/main/java/org/onap/cps/ncmp/api/models/CmHandleQueryServiceParameters.java of revision 3abed0dd017f34b8659980e9521474a6b9ee219a of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:17:04,684;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/3abed0dd017f34b8659980e9521474a6b9ee219a/files/cps-ncmp-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fmodels%2FCmHandleQueryServiceParameters.java/content HTTP/1.1" 200 2744
+2023-01-15 17:17:04,685;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:04,860;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/3abed0dd017f34b8659980e9521474a6b9ee219a/files/cps-ncmp-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fmodels%2FCmHandleQueryServiceParameters.java/content HTTP/1.1" 200 2744
+2023-01-15 17:17:04,861;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:05,173;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/3abed0dd017f34b8659980e9521474a6b9ee219a/files/cps-ncmp-service%2Fsrc%2Fmain%2Fjava%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fmodels%2FCmHandleQueryServiceParameters.java/content HTTP/1.1" 200 2744
+2023-01-15 17:17:05,174;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:05,344;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/33cb0fa28e8663237132be27e3248033e4e10ef0/comments HTTP/1.1" 200 2747
+2023-01-15 17:17:05,345;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:05,345;Gerrit data export pipeline;INFO;Processing revision 33cb0fa28e8663237132be27e3248033e4e10ef0 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:17:05,346;Gerrit data export pipeline;INFO;Processing file cps-ncmp-service/src/test/groovy/org/onap/cps/ncmp/api/impl/NetworkCmProxyCmHandlerQueryServiceSpec.groovy of revision 33cb0fa28e8663237132be27e3248033e4e10ef0 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:17:05,518;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/33cb0fa28e8663237132be27e3248033e4e10ef0/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2FNetworkCmProxyCmHandlerQueryServiceSpec.groovy/content HTTP/1.1" 200 20783
+2023-01-15 17:17:05,519;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:05,709;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/33cb0fa28e8663237132be27e3248033e4e10ef0/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2FNetworkCmProxyCmHandlerQueryServiceSpec.groovy/content HTTP/1.1" 200 20783
+2023-01-15 17:17:05,710;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:05,885;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/33cb0fa28e8663237132be27e3248033e4e10ef0/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2FNetworkCmProxyCmHandlerQueryServiceSpec.groovy/content HTTP/1.1" 200 20783
+2023-01-15 17:17:05,886;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:06,060;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/33cb0fa28e8663237132be27e3248033e4e10ef0/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2FNetworkCmProxyCmHandlerQueryServiceSpec.groovy/content HTTP/1.1" 200 20783
+2023-01-15 17:17:06,061;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:06,298;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/33cb0fa28e8663237132be27e3248033e4e10ef0/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2FNetworkCmProxyCmHandlerQueryServiceSpec.groovy/content HTTP/1.1" 200 20783
+2023-01-15 17:17:06,299;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:06,470;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/33cb0fa28e8663237132be27e3248033e4e10ef0/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2FNetworkCmProxyCmHandlerQueryServiceSpec.groovy/content HTTP/1.1" 200 20783
+2023-01-15 17:17:06,471;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:06,643;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/33cb0fa28e8663237132be27e3248033e4e10ef0/files/cps-ncmp-service%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fonap%2Fcps%2Fncmp%2Fapi%2Fimpl%2FNetworkCmProxyCmHandlerQueryServiceSpec.groovy/content HTTP/1.1" 200 20783
+2023-01-15 17:17:06,644;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:06,815;urllib3.connectionpool;DEBUG;https://gerrit.onap.org:443 "GET /r/changes/cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc/revisions/57aeff805833090e9585c77228f670283f56ce56/comments HTTP/1.1" 200 1488
+2023-01-15 17:17:06,817;pygerrit2;DEBUG;status[200] content_type[application/json;charset=utf-8] encoding[utf-8]
+2023-01-15 17:17:06,817;Gerrit data export pipeline;INFO;Processing revision 57aeff805833090e9585c77228f670283f56ce56 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
+2023-01-15 17:17:06,818;Gerrit data export pipeline;INFO;Processing file /COMMIT_MSG of revision 57aeff805833090e9585c77228f670283f56ce56 of change cps~master~I0ddf6866473f7c3c6b8507d222d441bf97ca6bdc
