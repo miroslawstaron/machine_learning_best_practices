@@ -1,3 +1,12 @@
 id_github
 id_github.pub
 chapter_4/access_token.txt
+chapter_11/wolfBERTa/merges.txt
+chapter_11/wolfBERTa/vocab.json
+chapter_11/wolfBERTa/checkpoint-1000/config.json
+chapter_11/wolfBERTa/checkpoint-1000/optimizer.pt
+chapter_11/wolfBERTa/checkpoint-1000/pytorch_model.bin
+chapter_11/wolfBERTa/checkpoint-1000/rng_state.pth
+chapter_11/wolfBERTa/checkpoint-1000/scheduler.pt
+chapter_11/wolfBERTa/checkpoint-1000/trainer_state.json
+chapter_11/wolfBERTa/checkpoint-1000/training_args.bin
