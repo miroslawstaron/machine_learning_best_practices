@@ -4,4 +4,12 @@ For this chapter, I strongly recommend to create a virtual environment, based on
 
 The command to create a virtual environment is:
 
-python3 -m venv venv -r requirements.txt
+```python3 -m venv venv``` 
+
+then 
+
+```source venv```
+
+and 
+
+```pip install -r requirements.txt```
