@@ -5,6 +5,7 @@
 
 import gradio as gr
 import pandas as pd
+import joblib
 
 def predict_defects(cbo, 
                     dcc, 
@@ -48,28 +49,37 @@ def predict_defects(cbo,
 
     # we create a dictionary with the column names as keys
     # and the input parameters as values
+    # please note that the names of the features must be the same as in the model
     data = {
-        'cbo': [cbo],
-        'dcc': [dcc],
-        'exportCoupling': [exportCoupling],
-        'importCoupling': [importCoupling],
-        'nom': [nom],
-        'wmc': [wmc]
+        'CBO': [cbo],
+        'DCC': [dcc],
+        'ExportCoupling': [exportCoupling],
+        'ImportCoupling': [importCoupling],
+        'NOM': [nom],
+        'WMC': [wmc]
     }
 
     # we create a data frame from the dictionary  
     df = pd.DataFrame(data)
 
-    return '1'
+    # load the model
+    model = joblib.load('./chapter_12_decision_tree_model.joblib')
+
+    # predict the number of defects
+    result = model.predict(df)[0]
+
+    # return the number of defects
+    return result
 
 # This is where we integrate the function above with the user interface
 # for this, we need to create an input box for each of the following parameters:
 # CBO, DCC, ExportCoupling,	ImportCoupling,	NOM,	WMC
 
-demo = gr.Interface(fn=predict_defects, 
-                    inputs = ['text', 'text', 'text', 'text', 'text', 'text'],
-                    outputs='text')
+demo = gr.Interface(fn=predict_defects,                                         
+                    inputs = ['number', 'number', 'number', 'number', 'number', 'number'],
+                    outputs = gr.Textbox(label='Will contain defects?', 
+                                         value= 'N/A'))
 
 # and here we start the actual user interface
 # in a browser window
-demo.launch()
+demo.launch(share=True)
