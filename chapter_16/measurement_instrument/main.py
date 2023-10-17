@@ -1,46 +1,58 @@
-# 
-# Flask application to count lines of code in a file
-#
-from fileinput import filename 
-from flask import *  
-app = Flask(__name__)   
+from fileinput import filename
+from flask import *
+from radon.complexity import cc_visit
+from radon.cli.harvest import CCHarvester
 
-# dictionary to store the metrics for the file submitted
-# metrics: lines of code
+app = Flask(__name__)
+
+# Dictionary to store the metrics for the file submitted
+# Metrics: lines of code and McCabe complexity
 metrics = {}
-  
-# method to render the index.html page
-@app.route('/')   
-def main():   
-    return render_template("index.html")    
 
 
-# method to upload the file and count the lines of code
-@app.route('/success', methods = ['POST'])   
-def success():   
-    if request.method == 'POST':   
-        f = request.files['file'] 
+def calculate_metrics(file_path):
+    with open(file_path, 'r') as file:
+        content = file.read()
 
-        # save the file to the server
-        f.save(f.filename)
-        
-        # count the lines in the file
-        lines = sum(1 for line in open(f.filename))
-        
-        # store the metrics in the dictionary
-        metrics[f.filename] = lines   
+    # Count lines of code
+    lines = len(content.splitlines())
 
-        # return the metrics for the file
-        return {f.filename: metrics[f.filename]}  
+    # Calculate McCabe complexity
+    complexity = cc_visit(content)
 
-# method to return the metrics for all files
-# that were counted in this session
-# mostly for debugging purposes
-@app.route('/metrics', methods = ['GET'])
+    # Store the metrics in the dictionary
+    metrics[file_path] = {
+        'lines_of_code': lines,
+        'mccabe_complexity': complexity
+    }
+
+
+@app.route('/')
+def main():
+    return render_template("index.html")
+
+
+@app.route('/success', methods=['POST'])
+def success():
+    if request.method == 'POST':
+        f = request.files['file']
+
+        # Save the file to the server
+        file_path = f.filename
+        f.save(file_path)
+
+        # Calculate metrics for the file
+        calculate_metrics(file_path)
+
+        # Return the metrics for the file
+        return metrics[file_path]
+
+
+@app.route('/metrics', methods=['GET'])
 def get_metrics():
     if request.method == 'GET':
         return metrics
 
-# run the application
-if __name__ == '__main__':   
-    app.run(host='0.0.0.0', debug=True)
+
+if __name__ == '__main__':
+    app.run(debug=True)
