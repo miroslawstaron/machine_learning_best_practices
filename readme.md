@@ -4,4 +4,4 @@ This is a repository that accompanies the book with the above title. The reposit
 
 If you have questions and comments about the book or the code, please contact me. 
 
-![cover]('./B19548 Cover.png')
+![alt text](https://github.com/miroslawstaron/machine_learning_best_practices/blob/main/image.jpg?raw=true)
