@@ -4,4 +4,4 @@ This is a repository that accompanies the book with the above title. The reposit
 
 If you have questions and comments about the book or the code, please contact me. 
 
-<img source='./B19548 Cover.png'/>
+![cover]('./B19548 Cover.png')
